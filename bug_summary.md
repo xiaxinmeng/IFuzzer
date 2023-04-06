@@ -1,4 +1,4 @@
-#A summary of the reported bugs.
+# A summary of the reported bugs.
 This document provides a summary of reported bugs that have been detected using IFuzzer. 
 
 The bug list is continuously updated as more bugs are found. We have tested 11 Python interpreters/compilers with IFuzzer, which include CPython, IronPython, RustPython, PyPy, Jython, gpython, Pyston, Codon, GraalPython, and MicroPython. The detected bugs demonstrate the effectiveness of IFuzzer. We also attempt to test other code analysis tools with IFuzzer, such as MyPy, and have found promising results. Unknown bugs have been detected through this process.
