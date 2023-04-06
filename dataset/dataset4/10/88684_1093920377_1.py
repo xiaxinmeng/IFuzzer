@@ -1,0 +1,1 @@
+for _ in func().__await__(): pass

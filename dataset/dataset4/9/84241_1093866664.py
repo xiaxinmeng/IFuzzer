@@ -1,0 +1,1 @@
+sock.setsockopt(socket.SOL_TCP, socket.TCP_NOTSENT_LOWAT, 42)

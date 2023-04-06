@@ -1,0 +1,1 @@
+Request = Union[WriteRequest, ReadRequest]

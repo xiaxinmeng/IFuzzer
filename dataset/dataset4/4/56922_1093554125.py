@@ -1,0 +1,1 @@
+parser.add_argument('--int', type=int, choices=[10,15,25])

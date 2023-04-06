@@ -1,0 +1,1 @@
+s = subprocess.Popen(("cat"), stdin=subprocess.PIPE, close_fds=True)

@@ -1,0 +1,5 @@
+f = open('./module.py')
+source = f.read()
+node = ast.parse(source, mode = 'exec')
+visitor = CustomVisitor()
+visitor.visit(node)

@@ -1,0 +1,1 @@
+self.ensure_string_list('link_objects')

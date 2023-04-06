@@ -1,0 +1,1 @@
+entries = pathlib.Path('/var').glob('/var/**/*.log')

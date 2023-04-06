@@ -1,0 +1,1 @@
+with multiprocessing.Pool(4) as pool: result = tuple(pool.imap(print, (1, 2, 3)))

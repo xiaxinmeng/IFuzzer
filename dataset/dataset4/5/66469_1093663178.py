@@ -1,0 +1,1 @@
+dict = PyType_stgdict(desc);

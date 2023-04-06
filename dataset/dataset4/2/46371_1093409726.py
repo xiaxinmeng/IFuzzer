@@ -1,0 +1,1 @@
+if self.debuglevel > 0: print>>stderr, "connect:", msg

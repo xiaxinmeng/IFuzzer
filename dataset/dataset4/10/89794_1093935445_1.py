@@ -1,0 +1,1 @@
+xparser.set_defaults(foo=1)

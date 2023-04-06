@@ -1,0 +1,3 @@
+@dataclass(match_args=False)
+class Child(Parent):
+    ...

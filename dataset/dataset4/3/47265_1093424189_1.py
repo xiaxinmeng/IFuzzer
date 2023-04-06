@@ -1,0 +1,1 @@
+res = PyUnicode_FromStringAndSize(s, (int)(p-s));

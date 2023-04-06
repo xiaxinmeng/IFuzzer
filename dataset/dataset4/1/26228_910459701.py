@@ -1,0 +1,1 @@
+await gather(None for _ in range(10))

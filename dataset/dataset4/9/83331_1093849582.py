@@ -1,0 +1,3 @@
+LOG=timelog.txt
+NRUNS=100
+NFILES=100

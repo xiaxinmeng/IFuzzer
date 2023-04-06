@@ -1,0 +1,1 @@
+if c not in str.printable: c='*'  # works faster as a mapping

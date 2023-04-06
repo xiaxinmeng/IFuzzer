@@ -1,0 +1,2 @@
+
+asyncio.run(function())

@@ -1,0 +1,2 @@
+import locale
+locale.localeconv()

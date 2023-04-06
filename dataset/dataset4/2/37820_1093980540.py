@@ -1,0 +1,1 @@
+def oneliner(x): return x**2

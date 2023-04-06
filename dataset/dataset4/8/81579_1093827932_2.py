@@ -1,0 +1,1 @@
+new_fn = sync_cm()(old_fn)

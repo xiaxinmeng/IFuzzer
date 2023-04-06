@@ -1,0 +1,2 @@
+reload(os)
+os.environ

@@ -1,0 +1,1 @@
+data = open('/home/scarolan/Python-2.7.3/pyconfig.h').read()

@@ -1,0 +1,1 @@
+cls2 = type(cls)(cls.__name__, cls.__bases__, cls.__dict__)

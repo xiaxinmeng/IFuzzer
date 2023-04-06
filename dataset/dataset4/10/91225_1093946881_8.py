@@ -1,0 +1,1 @@
+_GLOBAL_DEFAULT_TIMEOUT = object()

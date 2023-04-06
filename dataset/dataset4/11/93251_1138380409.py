@@ -1,0 +1,2 @@
+
+errmsg = "invalid continuation byte";

@@ -1,0 +1,1 @@
+rowtype = namedtuple ('__'.join (row_headings), row_headings)

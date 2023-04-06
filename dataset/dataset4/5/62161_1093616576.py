@@ -1,0 +1,1 @@
+X = Enum('X', ((name, name) for name in 'ant bee cat dog elk'.split()))

@@ -1,0 +1,1 @@
+socket.getaddrinfo("www.elmundo.es",None,0,socket.SOCK_STREAM)

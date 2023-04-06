@@ -1,0 +1,1 @@
+parser.add_argument('-p', '--preload', help='preload asset', action='append', metavar='NAMESPACE')

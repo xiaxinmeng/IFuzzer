@@ -1,0 +1,1 @@
+os.path.expandvars("%SystemDrive%\\Foo'Bar")

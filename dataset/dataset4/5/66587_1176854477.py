@@ -1,0 +1,1 @@
+data = load_data_for_5_minutes()

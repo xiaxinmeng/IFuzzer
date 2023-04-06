@@ -1,0 +1,1 @@
+NSR_DESC = Struct(HSF_VOL_DESC.format_str + "B")

@@ -1,0 +1,1 @@
+parser.add_argument('--license', action='call', callable=lambda: sys.stdout.write(message))

@@ -1,0 +1,1 @@
+m = memoryview(x).cast(format='L', shape=[3, 4])

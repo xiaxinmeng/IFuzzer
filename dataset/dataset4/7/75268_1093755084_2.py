@@ -1,0 +1,1 @@
+rowtype = namedtuple ('rowtype', row_headings)

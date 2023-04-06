@@ -1,0 +1,1 @@
+auth = urllib.unquote(auth)

@@ -1,0 +1,3 @@
+@foo.register
+def foo_bar(baz: bar):
+    ...

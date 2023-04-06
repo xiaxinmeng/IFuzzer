@@ -1,0 +1,1 @@
+asyncio.set_event_loop(ProactorEventLoop())

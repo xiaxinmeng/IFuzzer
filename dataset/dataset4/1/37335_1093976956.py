@@ -1,0 +1,1 @@
+struct_seq(name, doc, n_in_sequence, (fields))

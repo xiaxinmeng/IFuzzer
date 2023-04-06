@@ -1,0 +1,1 @@
+parser.add_argument("--license", action="version", version="This file is licensed under GPL.... [a huge amount of text]")

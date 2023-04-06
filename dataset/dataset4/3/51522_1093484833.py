@@ -1,0 +1,1 @@
+struct.pack("<17scBH", ...)

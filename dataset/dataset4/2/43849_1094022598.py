@@ -1,0 +1,1 @@
+self.fp = sock.makefile('rb', 0)

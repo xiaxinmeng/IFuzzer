@@ -1,0 +1,3 @@
+def asthook(ast, filename):
+   # ...
+   return new_ast

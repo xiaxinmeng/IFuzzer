@@ -1,0 +1,2 @@
+ms = MySetImpl()
+ms & 'testword'

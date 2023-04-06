@@ -1,0 +1,2 @@
+
+print("Hello", flush = True)

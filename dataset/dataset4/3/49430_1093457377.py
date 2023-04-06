@@ -1,0 +1,1 @@
+r = PyObject_CallMethod(cls, "__new__", "O", cls);

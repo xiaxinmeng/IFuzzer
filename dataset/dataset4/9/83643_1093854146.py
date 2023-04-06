@@ -1,0 +1,1 @@
+data.new_attribute = 3.0  # does NOT raise Error!

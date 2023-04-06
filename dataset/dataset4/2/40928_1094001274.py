@@ -1,0 +1,3 @@
+def foo(*args):
+    ...
+    return os.path.join(args)   # note the missing "*"

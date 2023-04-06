@@ -1,0 +1,1 @@
+dict.__delitem__(self, key)

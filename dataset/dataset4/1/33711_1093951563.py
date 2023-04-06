@@ -1,0 +1,1 @@
+lst = string.split("abcdef","")

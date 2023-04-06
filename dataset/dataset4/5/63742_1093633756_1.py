@@ -1,0 +1,1 @@
+file_name.encode("utf-8")  # File name parameter may be str or unicode

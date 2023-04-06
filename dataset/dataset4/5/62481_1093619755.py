@@ -1,0 +1,1 @@
+TUREAD = stat.S_IRUSR

@@ -1,0 +1,1 @@
+robotparser.URLopener.version = 'MyVersion'

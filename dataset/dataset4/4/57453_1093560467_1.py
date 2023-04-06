@@ -1,0 +1,1 @@
+ParseResult(scheme='ws', netloc='example.com', path='/somewhere', params='', query='foo=bar', fragment='dgdg')

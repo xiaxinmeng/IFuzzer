@@ -1,0 +1,1 @@
+logger.info( f" {logger.name:s} {logger.module:s} " ) 

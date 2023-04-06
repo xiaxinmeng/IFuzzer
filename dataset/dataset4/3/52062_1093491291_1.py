@@ -1,0 +1,1 @@
+print(s.mul(5,2))  # Returns 5*2 = 10

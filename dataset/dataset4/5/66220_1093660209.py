@@ -1,0 +1,1 @@
+shutil.make_archive(base_name='/tmp/issue22021archive', format='zip', root_dir='/tmp/issue22021/root/', base_dir='structure/content/')

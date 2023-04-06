@@ -1,0 +1,1 @@
+mailbox = queue.Queue()

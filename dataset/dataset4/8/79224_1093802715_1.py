@@ -1,0 +1,1 @@
+a = list(itertools.chain.from_iterable(*my_list))

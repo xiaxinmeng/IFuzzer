@@ -1,0 +1,1 @@
+mimetype = mimetype.encode(default_encoding) # omit in 3.x!

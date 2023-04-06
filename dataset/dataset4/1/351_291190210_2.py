@@ -1,0 +1,3 @@
+
+with contextlib.nested(a, b):
+        ...

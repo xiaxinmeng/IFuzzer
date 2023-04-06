@@ -1,0 +1,1 @@
+json.dumps(frozendict.frozendict({'3':5}))

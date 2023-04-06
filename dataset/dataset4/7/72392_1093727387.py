@@ -1,0 +1,1 @@
+process('\n'.join(substrings, suffix='\n'))

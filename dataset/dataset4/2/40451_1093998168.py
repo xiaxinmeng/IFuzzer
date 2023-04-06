@@ -1,0 +1,1 @@
+compile("# -*- coding: xxx -*-", "test.py", "exec")

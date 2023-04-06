@@ -1,0 +1,1 @@
+my_url = "https://api.foo.com"

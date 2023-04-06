@@ -1,0 +1,1 @@
+issubclass(MyClass, pathlib.Path)

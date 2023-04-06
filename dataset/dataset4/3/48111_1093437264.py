@@ -1,0 +1,1 @@
+_compile(self, obj, src, ext, cc_args, extra_postargs, pp_opts)

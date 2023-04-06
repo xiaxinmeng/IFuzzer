@@ -1,0 +1,1 @@
+MyType = namedtuple ('MyType', ['a', 'b', 'c'])

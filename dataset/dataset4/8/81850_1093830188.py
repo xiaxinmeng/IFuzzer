@@ -1,0 +1,1 @@
+mock_open(mock, read_data, data)

@@ -1,0 +1,1 @@
+self.assertRaises(BaseException, lambda: 1)

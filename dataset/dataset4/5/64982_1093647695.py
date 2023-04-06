@@ -1,0 +1,1 @@
+ggRAM = bytearray('\x00'*RAM_SIZE_BYTES)

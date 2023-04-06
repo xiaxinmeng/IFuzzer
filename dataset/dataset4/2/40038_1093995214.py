@@ -1,0 +1,1 @@
+mustquote = re.compile(r'[()\s%*"]|"{"|"\\"|"\]"')

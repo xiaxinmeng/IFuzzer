@@ -1,0 +1,1 @@
+xhtmlNode('div',class_='sidebar')

@@ -1,0 +1,2 @@
+            
+assert left > 0

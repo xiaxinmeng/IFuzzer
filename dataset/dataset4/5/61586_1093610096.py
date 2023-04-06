@@ -1,0 +1,1 @@
+self.addCleanup(os.remove, 'test.log')

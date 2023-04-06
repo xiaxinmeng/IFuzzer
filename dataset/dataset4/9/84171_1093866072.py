@@ -1,0 +1,1 @@
+def foo(bar: 'int') -> 'bool': pass

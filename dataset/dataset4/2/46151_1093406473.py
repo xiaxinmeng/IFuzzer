@@ -1,0 +1,1 @@
+sorted(seq, key=lambda v:v.person.displayname)

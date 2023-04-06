@@ -1,0 +1,6 @@
+open("aux", "w")
+open("Aux", "w")
+open("AUX", "w")
+open("aux.py", "w")
+open("aux.py", "wb")
+open("aux.txt", "w")

@@ -1,0 +1,1 @@
+ld_args.append('/MANIFEST')

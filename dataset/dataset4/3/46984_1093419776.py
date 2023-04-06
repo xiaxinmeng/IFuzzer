@@ -1,0 +1,1 @@
+last = min(self.maxx, last+1)

@@ -1,0 +1,1 @@
+add(var, callback=default, config=None)

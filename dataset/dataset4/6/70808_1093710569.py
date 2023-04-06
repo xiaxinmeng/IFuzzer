@@ -1,0 +1,1 @@
+__libmpdec_version__ = "2.4.1" # compatible libmpdec version

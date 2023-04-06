@@ -1,0 +1,34 @@
+import array
+import os
+import re
+import sys
+import copy
+import functools
+import pickle
+import tempfile
+import textwrap
+import unittest
+import test.support
+from test.support import import_helper
+from test.support import warnings_helper
+import test.string_tests
+import test.list_tests
+from test.support import bigaddrspacetest, MAX_Py_ssize_t
+from test.support.script_helper import assert_python_failure
+from ctypes import pythonapi, py_object
+from ctypes import c_int, c_uint, c_long, c_ulong, c_size_t, c_ssize_t, c_char_p
+from _testcapi import getbuffer_with_null_view
+import test_bytes
+
+@test_bytes.check_bytes_warnings
+def test_repr_str():
+    for f in (str, repr):
+        AssortedBytesTest.assertEqual(f(bytearray()), "bytearray(b'')")
+        AssortedBytesTest.assertEqual(f(bytearray([0])), "bytearray(b'\\x00')")
+        AssortedBytesTest.assertEqual(f(bytearray([0, 1, 254, 255])), "bytearray(b'\\x00\\x01\\xfe\\xff')")
+        AssortedBytesTest.assertEqual(f(b'abc'), "b'abc'")
+        AssortedBytesTest.assertEqual(f(b"'"), 'b"\'"')
+        AssortedBytesTest.assertEqual(f(b'\'"'), 'b\'\\\'"\'')
+
+AssortedBytesTest = test_bytes.AssortedBytesTest()
+test_repr_str()

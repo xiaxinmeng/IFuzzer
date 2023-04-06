@@ -1,0 +1,1 @@
+os.listdir(path, show_hidden=False, hidden_files_mask='*~', but_show_directories=True, something_etc=None)

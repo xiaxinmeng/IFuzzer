@@ -1,0 +1,1 @@
+self._write(' xmlns:%s="%s"' % (prefix, uri))

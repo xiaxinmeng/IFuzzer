@@ -1,0 +1,1 @@
+firefox = os.path.join(os.environ.get("PROGRAMFILES", "C:\\Program Files"), "Mozilla Firefox\\firefox.exe")

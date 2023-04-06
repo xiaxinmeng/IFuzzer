@@ -1,0 +1,1 @@
+p2 = Popen(["grep", "hda"], stdin=p1.stdout, stdout=PIPE)

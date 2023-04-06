@@ -1,0 +1,1 @@
+handle = open("python_logo.jpg", "rb")

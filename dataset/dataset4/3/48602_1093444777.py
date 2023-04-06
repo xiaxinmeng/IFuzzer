@@ -1,0 +1,5 @@
+print(sys.getfilesystemencoding())
+print(os.name)
+print(sys.version)
+print(sys.version_info)
+print(sys.platform)

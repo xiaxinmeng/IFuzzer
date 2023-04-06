@@ -1,0 +1,1 @@
+out = Popen(gcc+' --print-prog-name ld', shell=True, stdout=PIPE).stdout

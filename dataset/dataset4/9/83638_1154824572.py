@@ -1,0 +1,1 @@
+cx.transaction_behaviour = sqlite3.DEFERRED

@@ -1,0 +1,1 @@
+mock_open(read_data="default read data", data={"/foo": "abc", "/asdf/bar": "xyz"})

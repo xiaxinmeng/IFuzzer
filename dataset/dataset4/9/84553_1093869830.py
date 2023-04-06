@@ -1,0 +1,1 @@
+urlunsplit(('http+unix', '\x00qwe/asd', 'def', '', ''))                                                                       

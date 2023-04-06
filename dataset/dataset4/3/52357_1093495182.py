@@ -1,0 +1,1 @@
+mswindows = (sys.platform == "win32" or (sys.platform == "cli" and os.name == 'nt'))

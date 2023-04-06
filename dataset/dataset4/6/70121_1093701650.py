@@ -1,0 +1,1 @@
+ftp.retrlines('retr randomfilehere', fileTest.write) 

@@ -1,0 +1,3 @@
+@foo.setter
+@foo.deleter
+def foo(self, value=None): ...

@@ -1,0 +1,1 @@
+AC_REPLACE_FUNCS(hypot)

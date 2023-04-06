@@ -1,0 +1,1 @@
+_lc = [getattr(locale, lc) for lc in dir(locale) if lc.startswith('LC_')]

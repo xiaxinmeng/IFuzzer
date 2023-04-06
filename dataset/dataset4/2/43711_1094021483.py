@@ -1,0 +1,1 @@
+parser.add_option("", "--my-option", nargs=3)

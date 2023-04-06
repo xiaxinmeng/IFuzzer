@@ -1,0 +1,1 @@
+i = Tkinter.PhotoImage(file="fn", delete=0)

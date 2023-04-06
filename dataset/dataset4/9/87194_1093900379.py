@@ -1,0 +1,5 @@
+f = open('new_file', 'ab')
+print(f.seek(1))
+print(f.write(b'foo'))
+print(f.tell())
+f.close()

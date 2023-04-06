@@ -1,0 +1,1 @@
+urlopen('http://106.53.251.216:8888/\r\Auth: test\r\n/1.jpg')

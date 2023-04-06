@@ -1,0 +1,1 @@
+end = self._buffer.find(b"\n", self._buffer_offset) + 1

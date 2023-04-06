@@ -1,0 +1,2 @@
+
+data = json.read(filepath)

@@ -1,0 +1,1 @@
+fd=os.open('fifo', os.O_RDONLY | os.O_NONBLOCK)

@@ -1,0 +1,1 @@
+FTP.storbinary(cmd, file, blocksize=8192, callback=None, rest=None)

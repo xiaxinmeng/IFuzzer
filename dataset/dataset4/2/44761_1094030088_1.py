@@ -1,0 +1,1 @@
+args=('logging.config.fileConfig bug test',)

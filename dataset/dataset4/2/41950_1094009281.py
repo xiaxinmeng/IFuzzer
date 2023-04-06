@@ -1,0 +1,1 @@
+x.receive(A)

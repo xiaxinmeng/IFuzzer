@@ -1,0 +1,1 @@
+class _GLOBAL_DEFAULT_TIMEOUT: pass

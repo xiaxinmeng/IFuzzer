@@ -1,0 +1,1 @@
+re.match(r'\w[\w\s]*\s\d+', 'Compiling Regular Patterns to Sequential Machines')

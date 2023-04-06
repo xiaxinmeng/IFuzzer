@@ -1,0 +1,1 @@
+fields = [('a', c_short, 16), ('b', c_long, 16)]

@@ -1,0 +1,1 @@
+self.nntp_version = int(caps['VERSION'][0])

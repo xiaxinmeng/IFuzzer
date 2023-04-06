@@ -1,0 +1,1 @@
+s = os.path.join(os.path.dirname(sys.path[-1]), s)

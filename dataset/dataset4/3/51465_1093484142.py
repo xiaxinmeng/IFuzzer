@@ -1,0 +1,1 @@
+buf = self.read(min(size, 10000)) # was 100 before

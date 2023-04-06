@@ -1,0 +1,1 @@
+NativeSignal.GenerateConsoleCtrlEvent(PythonSignal.CTRL_C_EVENT, ...)

@@ -1,0 +1,1 @@
+ssl.SSLSocket.makefile = SSLSocket_makefile_fixed

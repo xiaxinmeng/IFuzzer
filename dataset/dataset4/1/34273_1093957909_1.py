@@ -1,0 +1,1 @@
+getopt.getopt(['--srv0','x'],'',['srv0=','srv1=','srv2='])

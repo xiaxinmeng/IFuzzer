@@ -1,0 +1,1 @@
+DictProxyType = type(TypeType.__dict__)

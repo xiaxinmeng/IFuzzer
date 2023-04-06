@@ -1,0 +1,1 @@
+cgi.escape('<h1>"&auml;"</h1>', quote=True)

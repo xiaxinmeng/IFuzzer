@@ -1,0 +1,1 @@
+process = subprocess.Popen(['svn.exe', '--help'], stdout=subprocess.PIPE, creationflags=subprocess.CREATE_NEW_CONSOLE)

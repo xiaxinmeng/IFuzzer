@@ -1,0 +1,1 @@
+db = bsddb.btopen("test.dbm", "n")

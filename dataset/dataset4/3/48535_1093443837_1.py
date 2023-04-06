@@ -1,0 +1,1 @@
+self.assert_(vi > (1,0,0))

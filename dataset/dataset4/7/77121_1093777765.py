@@ -1,0 +1,7 @@
+_trans = re.compile(r'''[^(){}\[]"'\\\n#]+''')
+code = _trans.sub('x', code)
+code = code.replace('{', '(')
+code = code.replace('}', ')')
+code = code.replace('[', '(')
+code = code.replace(']', '(')
+code = code.replace('\nx', '\n')

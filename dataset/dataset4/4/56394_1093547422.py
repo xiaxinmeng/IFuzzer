@@ -1,0 +1,1 @@
+object.copy_sign(other)

@@ -1,0 +1,1 @@
+MyDerived = new_class("MyDerived", (MyClass,), dict(metaclass=metaclass_callable))

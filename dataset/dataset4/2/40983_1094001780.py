@@ -1,0 +1,1 @@
+os.run('some_program', infilename, '-o', outfilename) 

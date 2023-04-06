@@ -1,0 +1,1 @@
+random.choice(list(d))

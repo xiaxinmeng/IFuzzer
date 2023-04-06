@@ -1,0 +1,1 @@
+FooType.tp_print = 0;

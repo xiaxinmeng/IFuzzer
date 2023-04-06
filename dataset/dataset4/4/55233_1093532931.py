@@ -1,0 +1,1 @@
+Mon2num = dict(zip(_month_names, range(1, 13)))

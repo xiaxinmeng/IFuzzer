@@ -1,0 +1,1 @@
+line = self.fp.readline(1<<16) # bytes

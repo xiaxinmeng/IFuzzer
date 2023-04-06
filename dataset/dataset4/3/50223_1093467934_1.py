@@ -1,0 +1,1 @@
+col2_list = [a[2] for a in A]  # new list created from column 2

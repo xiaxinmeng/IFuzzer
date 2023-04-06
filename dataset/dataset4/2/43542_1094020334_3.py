@@ -1,0 +1,1 @@
+from xmlcore.sax.xmlreader import InputSource

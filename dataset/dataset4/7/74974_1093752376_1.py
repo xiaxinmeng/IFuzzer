@@ -1,0 +1,1 @@
+root = tkinter.Tk(className='myTkApp')

@@ -1,0 +1,1 @@
+_sys_stdout_encoding = sys.stdout.encoding

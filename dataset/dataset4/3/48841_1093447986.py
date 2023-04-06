@@ -1,0 +1,1 @@
+os.setuid(Decimal("1000.2"))

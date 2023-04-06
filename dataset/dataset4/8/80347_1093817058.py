@@ -1,0 +1,1 @@
+object.__format__(self, format_spec)

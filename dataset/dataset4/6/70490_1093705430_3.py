@@ -1,0 +1,1 @@
+_is_legal_key = re.compile('[%s]+' % _LegalChars.replace('-', '\\-')).fullmatch

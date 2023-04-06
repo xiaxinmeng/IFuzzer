@@ -1,0 +1,1 @@
+self.assertIs(req.type == "ftp", ftp)

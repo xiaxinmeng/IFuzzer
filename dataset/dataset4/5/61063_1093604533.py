@@ -1,0 +1,3 @@
+buf = tarfile.fileobj.read(BLOCKSIZE)
+...
+obj.offset = tarfile.fileobj.tell() - BLOCKSIZE

@@ -1,0 +1,1 @@
+linesep_splitter = re.compile(r'\n|\r')

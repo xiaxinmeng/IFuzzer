@@ -1,0 +1,1 @@
+commands.get_output("echo Testing")

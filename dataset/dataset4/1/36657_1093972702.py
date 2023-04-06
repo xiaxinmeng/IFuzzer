@@ -1,0 +1,1 @@
+string.split(u'test\u0630', 'fail')

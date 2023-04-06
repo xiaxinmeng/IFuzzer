@@ -1,0 +1,1 @@
+out = out.decode("ascii", "surrogateescape")

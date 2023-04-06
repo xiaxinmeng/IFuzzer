@@ -1,0 +1,1 @@
+doctest.run_docstring_examples(hash_files, globals())

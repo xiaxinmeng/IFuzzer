@@ -1,0 +1,3 @@
+import importlib
+importlib.invalidate_caches()
+import sphinxcontrib.programoutput

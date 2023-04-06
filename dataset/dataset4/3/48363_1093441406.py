@@ -1,0 +1,1 @@
+functools.partial(f, 1, 2, 3, a=5, b={}, c='7')

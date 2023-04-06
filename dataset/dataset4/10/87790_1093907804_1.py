@@ -1,0 +1,1 @@
+text = f"my {...} very {...} long {...} and {...} complex {...} format string:" + (f"x={x:_f}" if sys.version_info >= (3, 10) else "x={x:_f}")

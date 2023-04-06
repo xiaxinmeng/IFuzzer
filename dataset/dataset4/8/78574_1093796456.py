@@ -1,0 +1,1 @@
+json.dumps(data, outfile, sort_keys=True,compression='gzip')

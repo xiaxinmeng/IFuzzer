@@ -1,0 +1,1 @@
+r.url = req.full_url.split('#')[0]

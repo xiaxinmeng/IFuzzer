@@ -1,0 +1,1 @@
+parser.add_option('--myopt',action='callback',callback=mycallback,dest='myopt')

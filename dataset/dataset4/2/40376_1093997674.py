@@ -1,0 +1,1 @@
+lockf(fd, operation, [len, [start, [whence]]])

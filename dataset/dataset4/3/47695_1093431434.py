@@ -1,0 +1,1 @@
+functools.update_wrapper(myWrapper, str.split, ('__name__', '__doc__'))

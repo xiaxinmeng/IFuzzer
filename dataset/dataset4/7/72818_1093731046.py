@@ -1,0 +1,3 @@
+config = configparser.ConfigParser()
+config.read(cfg_fn)
+...

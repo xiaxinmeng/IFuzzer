@@ -1,0 +1,1 @@
+plaintext = zlib.deflate(compressed_text, wbits=-15)

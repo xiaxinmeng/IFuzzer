@@ -1,0 +1,1 @@
+microseconds = int(timepart_full[1])

@@ -1,0 +1,1 @@
+bound_method = types.MethodType(method, self)

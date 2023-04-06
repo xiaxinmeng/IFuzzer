@@ -1,0 +1,1 @@
+tz_naive_object = datetime.strptime("2018-01-05 13:10:00 CET", "%Y-%m-%d %H:%M:%S %Z")

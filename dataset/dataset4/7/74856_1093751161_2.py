@@ -1,0 +1,1 @@
+print_collision_counts(py3_6_1_lookdict_perturb) 

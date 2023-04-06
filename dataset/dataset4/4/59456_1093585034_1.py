@@ -1,0 +1,1 @@
+mcopy_code = code #loads(dumps(code))

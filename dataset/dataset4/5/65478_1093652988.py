@@ -1,0 +1,1 @@
+str.translate(translation_table)

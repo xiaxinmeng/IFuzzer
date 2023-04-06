@@ -1,0 +1,1 @@
+name = PyString_InternFromString(name_op[op]);

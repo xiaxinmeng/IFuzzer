@@ -1,0 +1,1 @@
+stats_path = imp.find_module('scipy/stats')

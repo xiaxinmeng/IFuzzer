@@ -1,0 +1,1 @@
+self.prec = prec if prec is not None else dc.prec

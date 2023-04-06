@@ -1,0 +1,1 @@
+sys.setdlopenflags(dl.RTLD_NOW|dl.RTLD_GLOBAL)

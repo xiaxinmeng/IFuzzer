@@ -1,0 +1,1 @@
+cn=sqlite3.connect(':memory:', isolation_level=None)

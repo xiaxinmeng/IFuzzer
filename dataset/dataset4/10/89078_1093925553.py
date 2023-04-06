@@ -1,0 +1,1 @@
+C = TypedDict("C", {"to": int, "from": int})

@@ -1,0 +1,1 @@
+putheader('Authorization', 'Bearer', 'my_token')

@@ -1,0 +1,2 @@
+def setUpModule():
+    requires('gui')

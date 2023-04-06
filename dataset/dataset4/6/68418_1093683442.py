@@ -1,0 +1,1 @@
+tmpdir = tempfile.mkdtemp('', 'hgtests.', d and d.decode('utf-8')).encode('utf-8')

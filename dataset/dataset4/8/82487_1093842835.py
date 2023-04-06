@@ -1,0 +1,1 @@
+asyncio.run_in_executor(func, *args, **kwargs)

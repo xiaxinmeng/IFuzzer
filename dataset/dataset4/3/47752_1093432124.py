@@ -1,0 +1,3 @@
+valid_identifier_chars = string.letters + string.digits + "_"
+...
+return filter( lambda char: char in valid_identifier_chars, className)

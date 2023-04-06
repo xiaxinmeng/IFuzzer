@@ -1,0 +1,1 @@
+parser.add_argument("--foo", action="extend", nargs="+", type=str)

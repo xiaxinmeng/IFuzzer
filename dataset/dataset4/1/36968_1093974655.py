@@ -1,0 +1,1 @@
+DictType = DictionaryType = dict

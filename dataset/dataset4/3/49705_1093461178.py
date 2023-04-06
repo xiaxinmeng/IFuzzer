@@ -1,0 +1,1 @@
+line = PyUnicode_AsUnicode(lineobj); 

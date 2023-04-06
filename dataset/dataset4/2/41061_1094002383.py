@@ -1,0 +1,1 @@
+encoding=os.environ["MY_DEFAULT_ENCODING"]

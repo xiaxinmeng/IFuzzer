@@ -1,0 +1,1 @@
+splitext('filename.ext', '.')

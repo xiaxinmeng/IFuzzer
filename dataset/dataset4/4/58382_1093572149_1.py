@@ -1,0 +1,1 @@
+parser.add_argument('app_args', nargs='*')

@@ -1,0 +1,1 @@
+statistics.geometric_mean(0.7 for _ in range(5000))

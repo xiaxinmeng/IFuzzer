@@ -1,0 +1,1 @@
+entries = list(scandir_it)

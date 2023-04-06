@@ -1,0 +1,1 @@
+newdict = olddict.copy() # or dict(olddict)

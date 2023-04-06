@@ -1,0 +1,1 @@
+object = pickle.load(fname)

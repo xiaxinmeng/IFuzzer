@@ -1,0 +1,1 @@
+WEEK = timedelta(0, 0, 0, 0, 0, 0, 1)

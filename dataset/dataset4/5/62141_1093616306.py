@@ -1,0 +1,1 @@
+Point = namedtuple('Point', 'x y z', module=__name__)

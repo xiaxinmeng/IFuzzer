@@ -1,0 +1,1 @@
+module.__path__.insert(0, 'src/mypath')

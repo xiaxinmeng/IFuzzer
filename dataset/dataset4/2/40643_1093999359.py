@@ -1,0 +1,4 @@
+iscntrl()
+isgraph()
+isprint()
+ispunct()

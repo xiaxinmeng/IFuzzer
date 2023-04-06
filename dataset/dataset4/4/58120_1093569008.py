@@ -1,0 +1,1 @@
+__import__('pkgB.bar', master.pkgA.__dict__, fromlist=['-'], level=2)

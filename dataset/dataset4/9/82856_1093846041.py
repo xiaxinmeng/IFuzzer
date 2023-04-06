@@ -1,0 +1,1 @@
+print("In global scope:", spam)

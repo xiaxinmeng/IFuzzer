@@ -1,0 +1,1 @@
+globals = getattr(self.curframe, "f_globals", None) if hasattr(self, 'curframe') else None

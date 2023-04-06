@@ -1,0 +1,1 @@
+Py_DEBUG = hasattr(sys, 'getobjects')

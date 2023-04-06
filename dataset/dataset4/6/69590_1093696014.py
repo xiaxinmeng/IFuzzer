@@ -1,0 +1,1 @@
+filename = filename.encode(sys.getfilesystemencoding())

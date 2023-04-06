@@ -1,0 +1,1 @@
+list(map(fun, *zip(*itertools.zip_longest(a, b, ...))))

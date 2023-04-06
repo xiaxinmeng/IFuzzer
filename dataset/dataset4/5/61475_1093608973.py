@@ -1,0 +1,1 @@
+pool = multiprocessing.Manager().Pool()

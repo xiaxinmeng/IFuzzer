@@ -1,0 +1,3 @@
+def char_sieve():
+    char_data = array('c')
+...

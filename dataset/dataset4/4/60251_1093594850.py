@@ -1,0 +1,1 @@
+from psycopg2._psycopg import __version__

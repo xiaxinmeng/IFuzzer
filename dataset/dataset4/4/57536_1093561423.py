@@ -1,0 +1,1 @@
+self.assertAlmostEqual(st1.st_mtime, st2.st_mtime, places=2)

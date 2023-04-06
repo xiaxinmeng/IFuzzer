@@ -1,0 +1,1 @@
+if isinstance(x, Decimal) and x.isnan(): return True

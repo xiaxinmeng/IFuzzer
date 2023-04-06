@@ -1,0 +1,1 @@
+msg = str(self.msg)

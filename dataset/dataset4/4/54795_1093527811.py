@@ -1,0 +1,1 @@
+_CacheInfo = namedtuple("CacheInfo", "maxsize size hits misses")

@@ -1,0 +1,2 @@
+import pywintypes
+dir(pywintypes)

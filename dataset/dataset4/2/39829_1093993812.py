@@ -1,0 +1,1 @@
+if width is None: width = os.environ.get('COLUMNS', 80)

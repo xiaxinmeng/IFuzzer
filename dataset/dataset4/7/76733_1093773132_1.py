@@ -1,0 +1,1 @@
+my_add_argument(parser, '-g', help='bar help', default='other', add_default=False)

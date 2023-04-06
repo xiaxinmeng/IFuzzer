@@ -1,0 +1,1 @@
+norm=lambda m: m+(m and(m[-1]!='\n'and'\n'or'')or'\n')

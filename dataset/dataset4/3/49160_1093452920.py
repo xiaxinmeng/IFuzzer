@@ -1,0 +1,1 @@
+struct.pack('q', decimal.Decimal(1))

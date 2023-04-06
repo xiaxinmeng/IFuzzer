@@ -1,0 +1,2 @@
+h.close()
+remover.join()

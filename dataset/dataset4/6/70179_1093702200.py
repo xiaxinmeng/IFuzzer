@@ -1,0 +1,1 @@
+readline.set_history_length(1000)

@@ -1,0 +1,1 @@
+assert logger.propagate is False

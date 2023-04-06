@@ -1,0 +1,1 @@
+re_exc_line.match(msg)

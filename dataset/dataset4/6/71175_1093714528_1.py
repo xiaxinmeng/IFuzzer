@@ -1,0 +1,3 @@
+class BaseZeroEnum(Enum, start=0):
+   "initial integer is 0"
+   ...

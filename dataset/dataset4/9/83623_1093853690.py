@@ -1,0 +1,1 @@
+mytype = str  # library author defines some type alias

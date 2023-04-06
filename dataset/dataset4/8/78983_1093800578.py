@@ -1,0 +1,1 @@
+def test(): yield 1

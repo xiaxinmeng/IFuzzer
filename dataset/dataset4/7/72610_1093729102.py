@@ -1,0 +1,1 @@
+pkg_util.get_data('mypackage', 'resourcename')

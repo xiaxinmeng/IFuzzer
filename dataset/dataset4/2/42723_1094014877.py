@@ -1,0 +1,1 @@
+data = self._sock.recv(recv_size)

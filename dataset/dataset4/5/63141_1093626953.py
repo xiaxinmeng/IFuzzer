@@ -1,0 +1,1 @@
+self.stream = self._open()

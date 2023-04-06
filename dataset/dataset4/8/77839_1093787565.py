@@ -1,0 +1,1 @@
+pats = [r'(?m:^line.continues$)', r'(?s:begin.*?end)']

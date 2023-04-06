@@ -1,0 +1,1 @@
+meta = re.match(r'(?ms)(?:^(\S+):\s*(.*?)$\n)+^\s*$', contents_of_file)

@@ -1,0 +1,1 @@
+br = multiprocessing.Array('b', 1)

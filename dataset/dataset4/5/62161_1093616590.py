@@ -1,0 +1,1 @@
+X = IntEnum('X', 'start middle end')

@@ -1,0 +1,1 @@
+p.say("{colors.red.bold.on_black[this will be bold with red text on a black background]} but this will be just be regular text")

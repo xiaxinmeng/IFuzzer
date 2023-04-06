@@ -1,0 +1,3 @@
+if executor._work_queue.unfinished_tasks:
+    # executor is still producing something
+    ...

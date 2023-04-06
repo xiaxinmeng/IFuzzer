@@ -1,0 +1,1 @@
+unix_getpass(prompt='Password: ', stream=sys.stderr)

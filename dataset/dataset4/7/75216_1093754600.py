@@ -1,0 +1,1 @@
+task.set_exception(Exception('xxx'))

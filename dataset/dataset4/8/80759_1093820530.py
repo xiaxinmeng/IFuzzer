@@ -1,0 +1,1 @@
+random.randint(1, 0)

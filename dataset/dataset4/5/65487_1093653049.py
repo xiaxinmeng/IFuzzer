@@ -1,0 +1,1 @@
+hashlib.pbkdf2_hmac(hashlib.sha256, b'password', b'salt', 100000)

@@ -1,0 +1,1 @@
+sys.meta_path.insert(0,DummyImportHook())

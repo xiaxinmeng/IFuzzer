@@ -1,0 +1,1 @@
+text = TextIOWrapper(BytesIO(stderr), "ascii").read()

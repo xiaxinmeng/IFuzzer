@@ -1,0 +1,1 @@
+command = os.path.join(os.curdir, exe)

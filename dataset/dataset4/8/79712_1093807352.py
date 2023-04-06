@@ -1,0 +1,1 @@
+ele = xml.find('.//faultstring')

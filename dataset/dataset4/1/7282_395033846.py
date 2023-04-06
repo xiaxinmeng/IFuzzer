@@ -1,0 +1,1 @@
+self.assertFalse(os.access(self.tmpout, os.W_OK))

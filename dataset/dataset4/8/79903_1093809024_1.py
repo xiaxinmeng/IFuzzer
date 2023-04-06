@@ -1,0 +1,1 @@
+logging.config.dictConfig({"version": 1})

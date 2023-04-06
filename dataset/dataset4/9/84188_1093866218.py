@@ -1,0 +1,1 @@
+self.write(b''.join(lines))

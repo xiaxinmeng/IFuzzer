@@ -1,0 +1,1 @@
+size = len(Data.__entry_dates)

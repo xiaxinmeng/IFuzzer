@@ -1,0 +1,1 @@
+id_map = WeakKeyDictionaryWithMissing(lambda *, _counter=itertools.count(): next(_counter))

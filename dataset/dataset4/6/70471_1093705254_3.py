@@ -1,0 +1,1 @@
+info = self.NameToInfo.get(name)

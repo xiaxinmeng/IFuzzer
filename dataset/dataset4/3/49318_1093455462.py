@@ -1,0 +1,1 @@
+tarfile.open(mode="r:bz2", fileobj=StringIO.StringIO())

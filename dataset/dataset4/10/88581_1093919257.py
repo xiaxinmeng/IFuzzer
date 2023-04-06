@@ -1,0 +1,1 @@
+self.logger = lib.logger.Log()

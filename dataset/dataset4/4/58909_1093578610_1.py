@@ -1,0 +1,1 @@
+me.send("print my_name") # works

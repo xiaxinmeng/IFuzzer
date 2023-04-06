@@ -1,0 +1,1 @@
+list.index(x)

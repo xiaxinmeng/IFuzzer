@@ -1,0 +1,1 @@
+urljoin("rtmp://host/app", "?auth=token")

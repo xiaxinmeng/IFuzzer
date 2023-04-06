@@ -1,0 +1,1 @@
+with open("crash.py") as f: holo_table={tuple(int(z) for z in k.split(', ')):v for k,v in json.loads(f.readlines()[0][13:].replace('(','"').replace(')','"')).iteritems()}

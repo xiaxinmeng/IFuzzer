@@ -1,0 +1,1 @@
+os.open('.', os.O_RDWR |os.O_EXCL | os.O_DIRECTORY)

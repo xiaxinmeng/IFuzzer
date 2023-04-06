@@ -1,0 +1,1 @@
+cause = next((e for e in expected if isinstance(e, Exception)), None)

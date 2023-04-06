@@ -1,0 +1,1 @@
+exec('x=1\r\nprint x') 

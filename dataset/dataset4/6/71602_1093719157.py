@@ -1,0 +1,1 @@
+import asyncio; l = asyncio.get_event_loop(); l.run_until_complete(l.create_server(lambda: None, host='0.0.0.0', port=None))

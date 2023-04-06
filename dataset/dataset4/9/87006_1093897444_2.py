@@ -1,0 +1,1 @@
+class Bar(Foo, spam='ham'): pass

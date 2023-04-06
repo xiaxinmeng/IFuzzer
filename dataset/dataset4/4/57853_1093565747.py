@@ -1,0 +1,2 @@
+def recurse(): recurse()
+recurse()

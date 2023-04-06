@@ -1,0 +1,1 @@
+all_jumps = absolute_jumps | relative_jumps

@@ -1,0 +1,1 @@
+functools.reduce(lambda x, y: (min(x[0], y), max(x[1], y)), iterator, (next(iterator),)*2)

@@ -1,0 +1,1 @@
+op = struct.unpack('i', struct.pack('I', op))[0]

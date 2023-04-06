@@ -1,0 +1,1 @@
+self._file.seek(self._pos)

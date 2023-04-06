@@ -1,0 +1,1 @@
+E.message = "Illegal characters found in parameter 'quantity'; legal range is '^([0-9]{1,20})(\.[0-9]{1,20})?$'."

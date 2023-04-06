@@ -1,0 +1,2 @@
+class Crash(Connection):
+    pass

@@ -1,0 +1,1 @@
+print(f(4,myList))

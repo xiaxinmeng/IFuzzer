@@ -1,0 +1,1 @@
+messages = mailbox.mbox(filename, MboxoFactory)

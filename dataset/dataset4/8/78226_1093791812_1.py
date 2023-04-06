@@ -1,0 +1,5 @@
+
+#!/usr/bin/env python3
+
+import marshal
+marshal.loads(b"\xa9\x01\xbe\x01\x00\x00\x00r\x00\x00\x00\x00")

@@ -1,0 +1,1 @@
+shutil.make_archive("foo...bar..", "zip", os.path.abspath("c:/test"))

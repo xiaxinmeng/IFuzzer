@@ -1,0 +1,1 @@
+test_bit_field_union()  # this call will fail with an assertion error

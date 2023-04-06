@@ -1,0 +1,1 @@
+SplitResult(scheme='', netloc='www.python.org', path='/%2f..', query='', fragment='')

@@ -1,0 +1,1 @@
+fields = list(parser_body_fields) if parser_body_fields is not None else []

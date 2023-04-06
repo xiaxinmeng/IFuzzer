@@ -1,0 +1,3 @@
+
+# pkg/__init__.py
+from pkg.submodule import *  # Expecting `submodule_attr`, getting ...

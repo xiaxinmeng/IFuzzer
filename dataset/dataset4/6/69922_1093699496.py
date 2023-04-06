@@ -1,0 +1,1 @@
+server.sendmail(mailfrom, rcptto, msg.encode("utf8"))

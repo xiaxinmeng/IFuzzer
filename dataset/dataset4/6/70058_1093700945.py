@@ -1,0 +1,1 @@
+lines = (result[n:n + 64] for n in range(0, len(result), 64))

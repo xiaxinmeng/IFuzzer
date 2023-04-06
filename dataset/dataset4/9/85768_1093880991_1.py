@@ -1,0 +1,1 @@
+runpy._run_module_as_main("ham")

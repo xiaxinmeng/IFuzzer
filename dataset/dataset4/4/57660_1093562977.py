@@ -1,0 +1,3 @@
+if self._cancellations > 50 \
+  and self._cancellations > (len(self._queue) >> 1):
+     ...

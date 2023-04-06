@@ -1,0 +1,1 @@
+button = tk.Radiobutton(self, text=option, variable = var, value = answer, indicatoron=0)

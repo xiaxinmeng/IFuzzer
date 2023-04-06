@@ -1,0 +1,1 @@
+locale.getlocale(category=LC_CTYPE)

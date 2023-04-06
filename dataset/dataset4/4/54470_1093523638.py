@@ -1,0 +1,3 @@
+for tarinfo in tar:
+    ...
+    tar.members = []

@@ -1,0 +1,1 @@
+struct.pack("d", float("inf"))

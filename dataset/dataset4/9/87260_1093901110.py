@@ -1,0 +1,1 @@
+create_aggregate(name, num_params, aggregate_class)

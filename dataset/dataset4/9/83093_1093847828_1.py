@@ -1,0 +1,1 @@
+_warn(f"unclosed transport {self!r}", ResourceWarning, source=self)

@@ -1,0 +1,1 @@
+[k.lower() for k in "a"], [k.lower() for k in [1]]

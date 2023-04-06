@@ -1,0 +1,1 @@
+print(*values, sep=sep, end=end, file=file) # is equivalent to file.write(sep.join(map(str, values))+end)

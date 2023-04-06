@@ -1,0 +1,1 @@
+self.ldflags_shared = ['/DLL', '/nologo', '/INCREMENTAL:NO']

@@ -1,0 +1,1 @@
+test.index(('@%s,%s wordstart' % (event.x, event.y)))

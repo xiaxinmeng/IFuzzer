@@ -1,0 +1,1 @@
+start = lineno - 1 - context/2

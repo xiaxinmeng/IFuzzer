@@ -1,0 +1,1 @@
+snapshot = snapshot.filter_traces(Filter(False, tracemalloc.__file__))

@@ -1,0 +1,1 @@
+os.system("echo `date` >> /tmp/myfile")

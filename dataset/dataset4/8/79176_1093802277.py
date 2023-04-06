@@ -1,0 +1,3 @@
+@cached_property
+@abstractmethod
+def something(): ...

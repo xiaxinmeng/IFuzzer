@@ -1,0 +1,1 @@
+subprocess.check_call(['mount', 'bla', '/mnt'])

@@ -1,0 +1,1 @@
+while True: 1 << 64

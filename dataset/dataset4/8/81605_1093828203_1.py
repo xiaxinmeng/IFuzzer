@@ -1,0 +1,2 @@
+proc.kill()
+proc.communicate()

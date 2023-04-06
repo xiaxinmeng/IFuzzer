@@ -1,0 +1,1 @@
+data.replace(b'\n', b'')

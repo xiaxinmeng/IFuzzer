@@ -1,0 +1,1 @@
+await not_coro()  # TypeError: object generator can't be used in 'await' expression

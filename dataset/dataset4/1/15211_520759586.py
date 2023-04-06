@@ -1,0 +1,1 @@
+backspaces = '\b' * (i//10 + 1)

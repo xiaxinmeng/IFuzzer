@@ -1,0 +1,2 @@
+a.readlines()
+a.writelines([])

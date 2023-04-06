@@ -1,0 +1,9 @@
+class A:
+  ...
+
+@no_type_check
+class B:
+  AA = A
+  class C:
+    ...
+  ...

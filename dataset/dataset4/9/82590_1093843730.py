@@ -1,0 +1,1 @@
+help(str.strip)

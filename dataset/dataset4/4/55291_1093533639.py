@@ -1,0 +1,1 @@
+request = urllib.request.Request('http://does.not.matter', 'foo=bar')

@@ -1,0 +1,1 @@
+utf8 = string.encode('utf-8')

@@ -1,0 +1,5 @@
+gz_writer = GzipFile(fileobj=raw_writer, mode="wb", compresslevel=...)
+tar_writer = tarfile.open(fileobj=gz_writer, mode="w|")
+tar_writer.addfile(...)
+tar_writer.close()
+gz_writer.close()

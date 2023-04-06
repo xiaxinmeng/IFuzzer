@@ -1,0 +1,1 @@
+email.utils.parseaddr('John Doe jdoe@example.com <other@example.net>')

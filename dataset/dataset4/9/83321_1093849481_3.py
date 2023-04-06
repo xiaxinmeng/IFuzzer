@@ -1,0 +1,1 @@
+dst=pathlib.Path("foodst/bardst/myfile.txt")

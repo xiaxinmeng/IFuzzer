@@ -1,0 +1,1 @@
+foobar = test_support.import_optional('foobar')

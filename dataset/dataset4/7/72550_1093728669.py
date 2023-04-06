@@ -1,0 +1,1 @@
+_subprocess.TerminateProcess(self._handle, 1)

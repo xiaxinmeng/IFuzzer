@@ -1,0 +1,1 @@
+data_from_some_computations = [b"foo", b"bar"]  # probably returned by a function

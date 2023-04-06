@@ -1,0 +1,1 @@
+urlopen("http://localhost:8000/ HTTP/1.1\r\nHEADER: INJECTED\r\nIgnore:")

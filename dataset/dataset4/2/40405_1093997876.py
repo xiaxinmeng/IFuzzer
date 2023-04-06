@@ -1,0 +1,1 @@
+sys.executable.endswith("pythonw.exe")

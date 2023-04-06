@@ -1,0 +1,1 @@
+out_string = check_output(['gcc', '-dumpmachine'], shell=True)

@@ -1,0 +1,1 @@
+text = re.sub(r' ?\n', ' ', text)

@@ -1,0 +1,1 @@
+dis.get_instructions()

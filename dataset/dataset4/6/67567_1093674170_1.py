@@ -1,0 +1,1 @@
+parser.parse_args("--foo f1 --foo f2 f3 f4".split())

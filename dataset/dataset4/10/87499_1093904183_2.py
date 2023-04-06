@@ -1,0 +1,1 @@
+self._fp.write(s.encode('utf8', 'surrogateescape'))

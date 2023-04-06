@@ -1,0 +1,1 @@
+import locale; locale.strcoll(u"a", None)

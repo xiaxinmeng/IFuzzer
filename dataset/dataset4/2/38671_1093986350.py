@@ -1,0 +1,1 @@
+data = self.rfile.read(int(self.headers["content-length"]))

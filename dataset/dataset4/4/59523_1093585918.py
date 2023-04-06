@@ -1,0 +1,1 @@
+isinstance(sys.stdout, io.TextIOBase)

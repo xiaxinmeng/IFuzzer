@@ -1,0 +1,1 @@
+for key in self.keys(): del self[key]

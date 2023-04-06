@@ -1,0 +1,1 @@
+__test_all__ = __all__ = ['foo']

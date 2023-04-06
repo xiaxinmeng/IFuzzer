@@ -1,0 +1,1 @@
+fcntl.ioctl(0, termios.TIOCSWINSZ, "")

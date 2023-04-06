@@ -1,0 +1,1 @@
+base64string = base64.b64encode('%s:%s' %(username,passwd))[:-1]

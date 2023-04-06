@@ -1,0 +1,1 @@
+warnings.warn("_field_types is deprecated; use __annotations__ instead", DeprecationWarning)

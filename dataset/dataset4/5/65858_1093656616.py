@@ -1,0 +1,1 @@
+def f(args, kwds, *args1, **kwargs): pass

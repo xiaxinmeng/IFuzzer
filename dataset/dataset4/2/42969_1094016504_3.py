@@ -1,0 +1,1 @@
+self.sb.SendMessage(commctrl.SB_SETTEXT,iPane,extension.GetStringAddr(text))

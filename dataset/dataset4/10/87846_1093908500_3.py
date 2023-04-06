@@ -1,0 +1,1 @@
+OpenWrapper = _io.open # for compatibility with _pyio

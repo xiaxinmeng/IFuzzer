@@ -1,0 +1,1 @@
+print(path.match(str(pl.Path("bar"))))

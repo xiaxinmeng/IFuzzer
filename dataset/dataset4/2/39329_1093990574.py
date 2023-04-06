@@ -1,0 +1,1 @@
+socket.gethostbyname('www.google.com')

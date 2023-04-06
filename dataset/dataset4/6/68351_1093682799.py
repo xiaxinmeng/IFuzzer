@@ -1,0 +1,1 @@
+os.setxattr(dst, name, value, follow_symlinks=follow_symlinks)

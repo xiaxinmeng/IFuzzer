@@ -1,0 +1,1 @@
+print("foo", end='bar') # ParseError

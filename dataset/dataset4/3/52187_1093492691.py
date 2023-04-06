@@ -1,0 +1,1 @@
+call([sys.executable, 'diff.py', 'oldfile', 'newfile'])

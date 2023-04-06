@@ -1,0 +1,1 @@
+resource.setrlimit(resource.RLIMIT_NOFILE, (test_limit, -1))

@@ -1,0 +1,1 @@
+curses.color_pair(color_number)

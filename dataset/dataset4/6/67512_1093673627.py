@@ -1,0 +1,1 @@
+connection.append('INBOX', flags, date, msg)

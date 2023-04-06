@@ -1,0 +1,1 @@
+socket.CAN_EFF_FLAG = abs(socket.CAN_EFF_FLAG)

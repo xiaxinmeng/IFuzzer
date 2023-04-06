@@ -1,0 +1,1 @@
+apply(BaseMsgTemplate.__call__,[self]+args)

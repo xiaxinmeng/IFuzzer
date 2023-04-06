@@ -1,0 +1,5 @@
+canvas.bind("<1>", callback)
+canvas.bind("<2>", callback)
+canvas.bind("<3>", callback)
+canvas.bind("<4>", callback)
+canvas.bind("<5>", callback)

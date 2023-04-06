@@ -1,0 +1,1 @@
+acquire(blocking=True, timeout=-1) 

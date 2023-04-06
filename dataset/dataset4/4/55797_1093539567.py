@@ -1,0 +1,7 @@
+output_group = parser.add_mutually_exclusive_group(required=True)
+output_group.add_argument("-o", "--outfile")
+outdir_group = output_group.add_necessarily_inclusive_group()
+outdir_group.add_argument("-O", "--outdir")
+outfile_group = outdir_group.add_mutually_exclusive_group(required=True)
+outfile_group.add_argument("-p", "--outpattern")
+outfile_group.add_argument("-s", "--outsuffix")

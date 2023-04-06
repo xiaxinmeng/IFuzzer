@@ -1,0 +1,1 @@
+sameopenfile(fp1, fp2)

@@ -1,0 +1,2 @@
+with open('withtest.sh', 'w', errors='surrogatepass') as f:
+    for i in range(0x100, 0x110000): print(f"echo 'label .l -text \"{chr(i)}\"; exit' | wish 2>/dev/null && echo OK '\\U{i:08x}' {chr(i)!r} || echo FAIL '\\U{i:08x}' {chr(i)!r}", file=f)

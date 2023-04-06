@@ -1,0 +1,1 @@
+bound_method = functools.partial(method, self)

@@ -1,0 +1,3 @@
+x = 2.3
+y = 1.1
+p = QPoint(x, y)  # This fails, where previously it worked on every Python version since the age of the dinosaurs...

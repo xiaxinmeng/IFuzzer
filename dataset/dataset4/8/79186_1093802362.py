@@ -1,0 +1,1 @@
+argument_parser.add_argument("-d", "--data", type=argparse.JsonType)  # just for example

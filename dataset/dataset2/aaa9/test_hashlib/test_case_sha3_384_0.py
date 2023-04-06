@@ -1,0 +1,28 @@
+import array
+from binascii import unhexlify
+import hashlib
+import importlib
+import itertools
+import os
+import sys
+import sysconfig
+import threading
+import unittest
+import warnings
+from test import support
+from test.support import _4G, bigmemtest
+from test.support.import_helper import import_fresh_module
+from test.support import threading_helper
+from http.client import HTTPException
+from _hashlib import HASH,  openssl_md_meth_names
+import _blake2
+import _sha3
+import _md5
+import test_hashlib
+
+@test_hashlib.requires_sha3
+def test_case_sha3_384_0():
+    HashLibTestCase.check('sha3_384', b'', '0c63a75b845e4f7d01107d852e4c2485c51a50aaaa94fc61995e71bbee983a2a' + 'c3713831264adb47fb6bd1e058d5f004')
+
+HashLibTestCase = test_hashlib.HashLibTestCase()
+test_case_sha3_384_0()

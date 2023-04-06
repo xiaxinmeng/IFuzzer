@@ -1,0 +1,1 @@
+OrderedDict = _alias(collections.OrderedDict, (KT, VT))

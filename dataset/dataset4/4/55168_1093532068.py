@@ -1,0 +1,1 @@
+map_size = st.st_size - offset;

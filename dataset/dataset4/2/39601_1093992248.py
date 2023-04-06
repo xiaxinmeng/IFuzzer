@@ -1,0 +1,1 @@
+readsize = min(100, size)

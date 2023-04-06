@@ -1,0 +1,1 @@
+ipaddress.ip_network('ff00::/ff00::')

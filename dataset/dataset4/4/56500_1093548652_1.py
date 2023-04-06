@@ -1,0 +1,1 @@
+assert(newpos != NULL)

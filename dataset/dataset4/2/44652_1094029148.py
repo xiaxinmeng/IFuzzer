@@ -1,0 +1,1 @@
+foo = (x for x in bar if condition(x) and [memoize(x)])

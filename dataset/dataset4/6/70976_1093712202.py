@@ -1,0 +1,1 @@
+sys.is_finalizing()

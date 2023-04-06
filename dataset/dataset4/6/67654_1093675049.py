@@ -1,0 +1,1 @@
+test_exc('%x', '1', TypeError, "%x format: a number is required, not str")

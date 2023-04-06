@@ -1,0 +1,5 @@
+mod.__repr__()
+ExtensionFileLoader.load_module()
+importlib._bootstrap._handle_fromlist()
+importlib._bootstrap._calc___package__()
+importlib._bootstrap.__import__()

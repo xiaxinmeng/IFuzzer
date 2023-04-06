@@ -1,0 +1,1 @@
+locale.format('"1.%d."', 123)

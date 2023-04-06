@@ -1,0 +1,1 @@
+pattern = re.compile('<div>(<p>.*?</p>)</div>', flags=re.DOTALL)

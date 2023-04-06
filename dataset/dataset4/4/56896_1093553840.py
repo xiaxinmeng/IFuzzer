@@ -1,0 +1,1 @@
+data = pickle.load(open('test.bin', 'rb'))

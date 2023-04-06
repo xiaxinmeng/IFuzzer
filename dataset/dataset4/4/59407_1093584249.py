@@ -1,0 +1,1 @@
+shutil.copyfile("src", "dst", True)

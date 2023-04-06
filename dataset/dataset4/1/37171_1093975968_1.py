@@ -1,0 +1,1 @@
+f = os.fdopen(10, "r")

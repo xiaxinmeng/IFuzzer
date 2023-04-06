@@ -1,0 +1,1 @@
+ctypes.cast(any_pointer, ctypes.c_void_p)

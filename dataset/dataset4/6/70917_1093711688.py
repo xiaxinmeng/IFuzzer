@@ -1,0 +1,5 @@
+f = SpooledTemporaryFile(mode="w+")
+f.write("foobar")
+f.seek(3)
+f.rollover()
+f.write("baz")

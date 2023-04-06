@@ -1,0 +1,1 @@
+sys.path = glob.glob(os.path.join(WHEEL_DIR, "*.whl")) + sys.path

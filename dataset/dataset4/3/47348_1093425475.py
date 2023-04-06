@@ -1,0 +1,1 @@
+print(len(u'\0'.encode('unicode-internal')))

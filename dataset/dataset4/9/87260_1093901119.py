@@ -1,0 +1,1 @@
+sqlite3.Connection.set_progress_handler()

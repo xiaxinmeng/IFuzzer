@@ -1,0 +1,1 @@
+z = iter(zip(j, k))

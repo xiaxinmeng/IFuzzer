@@ -1,0 +1,1 @@
+f = open(fname, encoding="big5", errors="replace", ascii_only=True)

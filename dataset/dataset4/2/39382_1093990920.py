@@ -1,0 +1,1 @@
+self.readlines = self._file.readlines

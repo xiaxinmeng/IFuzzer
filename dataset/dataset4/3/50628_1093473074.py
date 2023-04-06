@@ -1,0 +1,1 @@
+key = first(['es-AR','es','en-US'], lambda x:self._value.has_key(x))

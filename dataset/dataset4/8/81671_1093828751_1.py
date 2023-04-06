@@ -1,0 +1,1 @@
+text.startswith('day', 8, 10)

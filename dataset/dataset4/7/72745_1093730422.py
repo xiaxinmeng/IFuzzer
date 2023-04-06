@@ -1,0 +1,2 @@
+def SomeError(Exception): 
+    pass 

@@ -1,0 +1,1 @@
+kernel32.CreateRemoteThread(h_process, 0, 0, 0xbadadd, 0, 4, byref(thread_id))

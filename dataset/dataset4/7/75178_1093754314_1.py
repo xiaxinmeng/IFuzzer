@@ -1,0 +1,1 @@
+logger = logging.getLogger(__name__, style='{')

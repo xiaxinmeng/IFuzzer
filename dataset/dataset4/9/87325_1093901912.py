@@ -1,0 +1,1 @@
+some_pathlib_path.with_suffix("jpg")

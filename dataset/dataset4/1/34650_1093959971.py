@@ -1,0 +1,1 @@
+restr_env.r_exec("a = 1/0")

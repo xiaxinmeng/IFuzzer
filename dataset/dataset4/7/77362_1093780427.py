@@ -1,0 +1,1 @@
+self.send_header("Cache-Control", "max-age=xxx")

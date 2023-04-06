@@ -1,0 +1,1 @@
+ext_modules=[Extension('foo', [os.path.abspath('src/foo.c')])],

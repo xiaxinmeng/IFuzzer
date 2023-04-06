@@ -1,0 +1,1 @@
+wrong_fields = rowdict.keys() - self.filenames

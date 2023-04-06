@@ -1,0 +1,1 @@
+log = list(r'..\Unknown\*.txt')

@@ -1,0 +1,1 @@
+globals = PyEval_GetGlobals();

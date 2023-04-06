@@ -1,0 +1,1 @@
+_testcapi.run_in_subinterp(code)

@@ -1,0 +1,1 @@
+base_globals = getattr(sys.modules.get(base.__module__, None), '__dict__', {})

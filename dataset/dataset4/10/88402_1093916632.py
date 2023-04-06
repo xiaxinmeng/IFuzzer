@@ -1,0 +1,1 @@
+LIBPL=Path(sysconfig.get_config_var("installed_base")) / "libs"

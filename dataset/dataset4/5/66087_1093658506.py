@@ -1,0 +1,1 @@
+p = _FORMATS[fmt]['parser'](use_builtin_types=use_builtin_types)

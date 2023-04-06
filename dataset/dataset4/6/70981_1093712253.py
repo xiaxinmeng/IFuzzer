@@ -1,0 +1,1 @@
+globals = self.curframe.f_globals

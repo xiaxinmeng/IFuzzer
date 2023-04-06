@@ -1,0 +1,3 @@
+EXIT_CHAR = 'x'
+MASK = 0xfe
+LIMIT = 4

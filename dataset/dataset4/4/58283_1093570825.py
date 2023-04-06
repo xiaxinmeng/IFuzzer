@@ -1,0 +1,1 @@
+Action(['--foo', '-a', '-b'], 'b', option_strings=['--foo', '-a', '-b'], dest='b', nargs='+', const=None, default=42, type='int', choices=[1, 2, 3], help='HELP', metavar='METAVAR')

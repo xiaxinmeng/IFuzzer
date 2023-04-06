@@ -1,0 +1,1 @@
+reduce(func, iter, initial)

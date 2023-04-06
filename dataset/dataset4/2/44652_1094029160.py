@@ -1,0 +1,1 @@
+identity = lambda arg0, *args: arg0

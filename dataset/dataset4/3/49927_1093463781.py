@@ -1,0 +1,1 @@
+data = b'xxx' if 'b' in mode else u'xxx'

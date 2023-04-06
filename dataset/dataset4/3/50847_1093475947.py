@@ -1,0 +1,1 @@
+_gen_next_number = itertools.cycle(xrange(N))

@@ -1,0 +1,3 @@
+def add(self, a, b):
+    ...
+    r = a.__add__(b, context=self)

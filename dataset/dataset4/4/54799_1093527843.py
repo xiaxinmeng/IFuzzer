@@ -1,0 +1,1 @@
+xml.sax.parseString(string, handler, error_handler=handler.ErrorHandler())

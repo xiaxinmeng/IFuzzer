@@ -1,0 +1,1 @@
+import os;os.environ["PATH"]+=(';'+os.path.join(sitedir,"pywin32_system32"))

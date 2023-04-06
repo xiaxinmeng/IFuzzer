@@ -1,0 +1,1 @@
+setattr(b, 'say', types.MethodType(Foo.say, b))

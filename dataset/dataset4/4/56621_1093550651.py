@@ -1,0 +1,1 @@
+pwd.struct_passwd(pw_name='demo_user', pw_passwd='********', pw_uid=1001, pw_gid=100, pw_gecos='demo_user', pw_dir='/Users/demo_user', pw_shell='/bin/bash')

@@ -1,0 +1,3 @@
+EXIT_CHAR = 120
+MASK = 0xfe
+LIMIT = 4

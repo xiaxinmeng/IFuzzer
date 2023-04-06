@@ -1,0 +1,1 @@
+lines = text.expandtabs().split('\n')

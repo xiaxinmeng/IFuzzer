@@ -1,0 +1,1 @@
+raw = raw.replace('\r\n ', ' ').replace('\n ', ' ')

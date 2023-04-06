@@ -1,0 +1,1 @@
+myset = frozenset([0] * 1000000)

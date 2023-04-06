@@ -1,0 +1,1 @@
+fo = os.fdopen(fd, 'rb+', buffering=0)

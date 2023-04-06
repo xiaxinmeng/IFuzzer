@@ -1,0 +1,1 @@
+completed_ps = subprocess.run('mpirun -np 4 myexe.x moreargs', shell=True)

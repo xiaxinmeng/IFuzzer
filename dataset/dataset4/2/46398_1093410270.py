@@ -1,0 +1,1 @@
+LIB_FILENAME = find_library('distorm64')

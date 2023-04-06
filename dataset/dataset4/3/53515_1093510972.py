@@ -1,0 +1,1 @@
+company = Session.query(Company).first()

@@ -1,0 +1,1 @@
+pickle.dumps(partial_f,2)

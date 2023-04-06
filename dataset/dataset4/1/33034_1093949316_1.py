@@ -1,0 +1,1 @@
+args = string.split('-a -b b_val some more stuff -c') 

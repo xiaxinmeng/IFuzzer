@@ -1,0 +1,1 @@
+Tkinter.wantobjects=0

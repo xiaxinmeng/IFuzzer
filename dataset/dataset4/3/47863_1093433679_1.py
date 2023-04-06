@@ -1,0 +1,1 @@
+auth = base64.encodestring(urllib.parse.unquote(auth))

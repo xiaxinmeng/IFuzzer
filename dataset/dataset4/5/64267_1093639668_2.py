@@ -1,0 +1,1 @@
+Counter({'blue': 3, 'red': 2, 'green': 1})

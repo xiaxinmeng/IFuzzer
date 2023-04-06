@@ -1,0 +1,1 @@
+a = np.array([1,2,3])  # Implicitly of dtype np.int64

@@ -1,0 +1,5 @@
+d = os.open(disk_file_path, os.O_RDWR | os.O_DIRECT | os.O_SYNC | os.O_DSYNC)
+readbuf = mmap.mmap(-1, 8192)
+os.lseek(d, 0, os.SEEK_SET)
+fo = os.fdopen(d, 'rb')
+fo.readinto(readbuf)

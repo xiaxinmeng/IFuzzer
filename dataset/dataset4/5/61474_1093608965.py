@@ -1,0 +1,1 @@
+r.url = req.get_full_url()

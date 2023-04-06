@@ -1,0 +1,1 @@
+self.redirect_browser('http://example.com/foo/bar/')

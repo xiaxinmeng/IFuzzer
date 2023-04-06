@@ -1,0 +1,1 @@
+any(x is e or x == e for e in y)

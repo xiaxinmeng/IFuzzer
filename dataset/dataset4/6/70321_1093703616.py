@@ -1,0 +1,1 @@
+loop.add_signal_handler(signal.SIGTERM, loop.stop)

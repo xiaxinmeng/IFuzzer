@@ -1,0 +1,1 @@
+print("This should have raised a KeyError:", sel.get_key(filedescriptor))

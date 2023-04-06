@@ -1,0 +1,1 @@
+GCC_DIAG_OFF(maybe-uninitialized)

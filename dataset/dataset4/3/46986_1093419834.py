@@ -1,0 +1,1 @@
+long = Type("long", "l")

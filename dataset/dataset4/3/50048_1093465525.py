@@ -1,0 +1,1 @@
+err = self.socket.getsockopt(socket.SOL_SOCKET, socket.SO_ERROR)

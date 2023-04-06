@@ -1,0 +1,1 @@
+n = Py_MIN(size, LONG_MAX);

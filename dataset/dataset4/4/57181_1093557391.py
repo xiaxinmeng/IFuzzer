@@ -1,0 +1,1 @@
+import readline # provides history via up/down

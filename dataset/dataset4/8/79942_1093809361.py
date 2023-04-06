@@ -1,0 +1,1 @@
+a = InventoryItem(name='Widget', unit_price=37.25, quantity_on_hand=10)

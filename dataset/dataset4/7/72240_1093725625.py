@@ -1,0 +1,1 @@
+multiprocessing.reducer = pickle2reducer.Pickle2Reducer()

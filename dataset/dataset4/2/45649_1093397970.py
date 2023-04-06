@@ -1,0 +1,2 @@
+unicode(None)
+u'None'

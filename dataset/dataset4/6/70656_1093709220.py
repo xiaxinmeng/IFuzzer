@@ -1,0 +1,1 @@
+c=ConfigParser(interpolation=ExtendedInterpolation())

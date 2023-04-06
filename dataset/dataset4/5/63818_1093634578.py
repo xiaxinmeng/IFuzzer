@@ -1,0 +1,3 @@
+if not codecs.types_support(encoding, str, bytes):
+    # not a Unicode -> 8-bit codec
+    ...

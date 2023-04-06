@@ -1,0 +1,3 @@
+prev = os.chdir(path)
+...
+os.chdir(prev)

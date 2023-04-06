@@ -1,0 +1,1 @@
+print(sys.path, file=sys.__stdout__)

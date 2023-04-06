@@ -1,0 +1,1 @@
+self.messageBoxDetails.insert(INSERT, "Hello world")

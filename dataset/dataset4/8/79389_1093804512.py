@@ -1,0 +1,1 @@
+if len(s) > n*k or s.count('\n') > n: squeeze(s)

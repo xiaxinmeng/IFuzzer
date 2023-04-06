@@ -1,0 +1,1 @@
+dataBuf = malloc((dataSize+1) * sizeof(TCHAR));

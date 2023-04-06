@@ -1,0 +1,3 @@
+if is_executable(path) or is_script(path):
+   raise ...
+os.startfile(path)

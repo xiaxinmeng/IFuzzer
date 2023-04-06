@@ -1,0 +1,1 @@
+p.apply_async(func=run, args=(b, "222",))

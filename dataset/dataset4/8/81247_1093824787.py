@@ -1,0 +1,1 @@
+os.execl('/bin/bash', 'bash', '--init-file', ...)

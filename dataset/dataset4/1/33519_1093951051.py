@@ -1,0 +1,1 @@
+ext = filename + strlen(filename) - 4;

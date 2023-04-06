@@ -1,0 +1,1 @@
+TK_VERSION = tuple(map(int, tk.call("info", "patchlevel").split(".")))

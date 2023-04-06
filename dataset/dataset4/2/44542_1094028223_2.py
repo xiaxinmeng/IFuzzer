@@ -1,0 +1,1 @@
+cvSetImageROI(img, CvRect(1,2,3,4))

@@ -1,0 +1,4 @@
+faulthandler_fatal_error()
+faulthandler_dump_backtrace()
+faulthandler_dump_backtrace_threads()
+faulthandler_user()

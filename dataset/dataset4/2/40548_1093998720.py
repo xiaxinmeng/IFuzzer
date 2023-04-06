@@ -1,0 +1,1 @@
+TESTFN_UNICODE = unicode("@test-\xe0\xf2", "latin-1")

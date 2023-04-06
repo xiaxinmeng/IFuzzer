@@ -1,0 +1,1 @@
+xml_test_out = open(TEST_XMLFILE_OUT).read()

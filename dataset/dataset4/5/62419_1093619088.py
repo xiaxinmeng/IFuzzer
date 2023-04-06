@@ -1,0 +1,1 @@
+wrong_fields = [k for k in rowdict if k not in self.fieldnames]

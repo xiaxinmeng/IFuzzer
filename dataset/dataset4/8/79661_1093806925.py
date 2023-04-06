@@ -1,0 +1,1 @@
+my_subparser = subparsers.add_parser('checkout', aliases=['co'])

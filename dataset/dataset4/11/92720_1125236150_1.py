@@ -1,0 +1,1 @@
+functools.reduce(lambda x, y: ((y, x[1]) if y < x[0] else (x[0], y) if y > x[1] else x), iterator, (next(iterator),)*2)

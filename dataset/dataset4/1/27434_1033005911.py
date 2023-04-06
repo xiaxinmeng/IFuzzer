@@ -1,0 +1,1 @@
+sm = difflib.SequenceMatcher(None, a, b)

@@ -1,0 +1,1 @@
+get_type_hints(A)

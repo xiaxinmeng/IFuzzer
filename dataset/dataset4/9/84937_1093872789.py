@@ -1,0 +1,1 @@
+some_dict = {k: v/5 for k, v in some_dict.items()}

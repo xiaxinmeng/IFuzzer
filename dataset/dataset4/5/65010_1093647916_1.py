@@ -1,0 +1,1 @@
+print('{}:"{:+10.8}"'.format('answer', MyFloat(0.12345678)))

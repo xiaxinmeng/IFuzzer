@@ -1,0 +1,1 @@
+list.extend(whatever)

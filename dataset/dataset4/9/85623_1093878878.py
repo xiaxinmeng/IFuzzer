@@ -1,0 +1,1 @@
+class Invertible2(Invertible[KT1, KT2]): pass

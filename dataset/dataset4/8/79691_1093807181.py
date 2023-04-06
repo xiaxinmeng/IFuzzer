@@ -1,0 +1,1 @@
+B.__module__ = __name__

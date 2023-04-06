@@ -1,0 +1,1 @@
+xml.dom.expatbuilder.parse("/tmp/x.xmp", namespaces=False)

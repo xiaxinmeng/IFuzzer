@@ -1,0 +1,1 @@
+mailbox         =       name-addr / addr-spec

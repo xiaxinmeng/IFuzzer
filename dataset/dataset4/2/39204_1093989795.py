@@ -1,0 +1,1 @@
+charref = re.compile('&#([0-9a-fA-FxX][0-9a-fA-F]*)[^0-9a-fA-F]')

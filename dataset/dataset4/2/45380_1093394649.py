@@ -1,0 +1,1 @@
+self.assertRaises(OSError, os.execvpe, 'no such app-', [], None)

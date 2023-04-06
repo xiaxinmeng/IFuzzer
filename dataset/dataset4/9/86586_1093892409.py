@@ -1,0 +1,4 @@
+class Queue:
+
+    def join():
+        ...

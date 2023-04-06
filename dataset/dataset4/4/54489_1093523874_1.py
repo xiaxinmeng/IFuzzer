@@ -1,0 +1,1 @@
+self.nntp_version = max(map(int, caps['VERSION']))

@@ -1,0 +1,1 @@
+sorted(paths, key=len, reverse=True)

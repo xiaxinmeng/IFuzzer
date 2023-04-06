@@ -1,0 +1,1 @@
+loop.set_debug(debug or coroutines._DEBUG)

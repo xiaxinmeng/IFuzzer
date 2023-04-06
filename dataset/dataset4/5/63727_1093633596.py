@@ -1,0 +1,1 @@
+args=('whatever\testlog\really_cool_logging.log', 'a', 131072, 10)

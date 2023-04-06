@@ -1,0 +1,1 @@
+for i001 in iterable: pass  # i001 is a new local name.

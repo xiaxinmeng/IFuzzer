@@ -1,0 +1,1 @@
+obj.var=x  , d[key]=x , l.append(x) .pop()

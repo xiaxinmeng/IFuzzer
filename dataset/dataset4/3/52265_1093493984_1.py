@@ -1,0 +1,1 @@
+test_string = ctypes.c_char_p(b"This Is a test string, that should be of type bytes")

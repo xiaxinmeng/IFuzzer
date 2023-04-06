@@ -1,0 +1,1 @@
+sys.stdout = lib.debugger.Tee("/tmp/exachk_screen_output_061321_23211.log")

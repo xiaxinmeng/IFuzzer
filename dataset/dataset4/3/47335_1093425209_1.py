@@ -1,0 +1,1 @@
+pipe = os.popen(cmd, 'r', bufsize)

@@ -1,0 +1,1 @@
+proxy_url = "http://127.0.0.1:%d" % self.server.port

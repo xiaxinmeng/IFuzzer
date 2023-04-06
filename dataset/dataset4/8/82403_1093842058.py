@@ -1,0 +1,1 @@
+log_dir = Path('logs/{date}')

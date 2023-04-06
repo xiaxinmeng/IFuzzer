@@ -1,0 +1,1 @@
+packages = [modname] + get_packages(os.getcwd(), modname)

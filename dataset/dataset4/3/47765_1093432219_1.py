@@ -1,0 +1,1 @@
+os.remove("a.txt") # fine

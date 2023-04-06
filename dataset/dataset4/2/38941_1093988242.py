@@ -1,0 +1,1 @@
+from idlelib.PyShell import main

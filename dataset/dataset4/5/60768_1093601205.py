@@ -1,0 +1,7 @@
+filedata = open("data", "rb").read()
+postdata = MIMEMultipart()
+fileattachment = MIMEApplication(filedata, _encoder=email.encoders.encode_noop)
+postdata.attach(fileattachment)
+fp = BytesIO()
+g = BytesGenerator(fp)
+g.flatten(postdata, unixfrom=False)

@@ -1,0 +1,1 @@
+dt = datetime.now(precision='day')

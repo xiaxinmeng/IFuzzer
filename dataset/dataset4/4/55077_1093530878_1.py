@@ -1,0 +1,3 @@
+@ABarC.register
+class Foo:
+    ...

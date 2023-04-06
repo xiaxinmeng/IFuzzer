@@ -1,0 +1,1 @@
+locale._parse_localename("de_DE@euro")

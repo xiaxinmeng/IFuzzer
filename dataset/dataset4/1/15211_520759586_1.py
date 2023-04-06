@@ -1,0 +1,1 @@
+backspaces = len(str(i))

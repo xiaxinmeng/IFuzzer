@@ -1,0 +1,1 @@
+c.__class__ = M  # fails with

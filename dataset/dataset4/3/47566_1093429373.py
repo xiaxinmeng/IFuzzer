@@ -1,0 +1,1 @@
+MAPPING = {module: [(new_module, [member, member, ..., member])]}

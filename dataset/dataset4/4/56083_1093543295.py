@@ -1,0 +1,1 @@
+global_options.add_argument('--field-sep', choices=[',',';','|','\t'], required=True, help='Field separator that separates columns in a row.')

@@ -1,0 +1,1 @@
+code.InteractiveConsole.__init__(self, locals, filename)

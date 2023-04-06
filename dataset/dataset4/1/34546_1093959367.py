@@ -1,0 +1,1 @@
+data = self.rfile.read(nbytes)

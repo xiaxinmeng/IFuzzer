@@ -1,0 +1,1 @@
+source = re.sub(r"\r\n", "\n", source)

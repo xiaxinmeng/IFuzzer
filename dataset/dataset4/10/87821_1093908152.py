@@ -1,0 +1,1 @@
+self.top.wm_attributes('-type', 'dialog')

@@ -1,0 +1,1 @@
+for e in iterable: f(e)

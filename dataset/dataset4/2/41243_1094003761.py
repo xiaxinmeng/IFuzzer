@@ -1,0 +1,1 @@
+WRAP_UNARY(proxy_int, PyNumber_Int)

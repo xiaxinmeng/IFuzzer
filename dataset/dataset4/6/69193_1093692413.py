@@ -1,0 +1,1 @@
+subprocess.call("start file a&b>x", shell=True)

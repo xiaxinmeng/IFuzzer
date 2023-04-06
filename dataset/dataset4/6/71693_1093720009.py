@@ -1,0 +1,1 @@
+without_nulls = bytes_with_nulls.translate(None, delete=b"\x00")

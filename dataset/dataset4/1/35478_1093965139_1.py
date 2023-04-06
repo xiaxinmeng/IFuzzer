@@ -1,0 +1,1 @@
+dir = tkFileDialog.choose_directory()

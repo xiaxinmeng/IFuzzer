@@ -1,0 +1,1 @@
+requestline = str(self.raw_requestline, 'iso-8859-1')

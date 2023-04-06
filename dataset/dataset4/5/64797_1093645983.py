@@ -1,0 +1,1 @@
+parser.parse_args('7'.split())

@@ -1,0 +1,1 @@
+_builtin_open = open

@@ -1,0 +1,1 @@
+self._conn.sock.makefile('rb', 0)

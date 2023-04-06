@@ -1,0 +1,1 @@
+return iter(os.listdir(package_directory))

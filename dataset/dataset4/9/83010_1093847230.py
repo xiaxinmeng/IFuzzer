@@ -1,0 +1,1 @@
+PyObject_CallMethod(file, "flush", NULL)

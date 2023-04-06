@@ -1,0 +1,1 @@
+self.assertRegex(copied_text.strip(), r'^if True:\n[ \t]+print\(1\)$')

@@ -1,0 +1,1 @@
+alist.insert(pos, value)

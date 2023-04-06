@@ -1,0 +1,1 @@
+mode = info.external_attr >> 16

@@ -1,0 +1,2 @@
+import faulthandler
+faulthandler.cancel_dump_traceback_later()

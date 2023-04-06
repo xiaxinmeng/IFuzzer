@@ -1,0 +1,1 @@
+urllib.urlopen("http://foo:bar@www.moo.com")

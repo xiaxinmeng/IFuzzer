@@ -1,0 +1,1 @@
+data = open('somefile', 'rb').read()

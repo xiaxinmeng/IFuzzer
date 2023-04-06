@@ -1,0 +1,1 @@
+result = random.sample(items, random.randint(0, len(items)))

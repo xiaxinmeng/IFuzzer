@@ -1,0 +1,1 @@
+return super().__format__(fmt)

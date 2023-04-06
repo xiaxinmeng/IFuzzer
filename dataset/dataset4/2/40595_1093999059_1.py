@@ -1,0 +1,1 @@
+archive_root = os.path.join(self.bdist_dir, ensure_relative(install.install_base))

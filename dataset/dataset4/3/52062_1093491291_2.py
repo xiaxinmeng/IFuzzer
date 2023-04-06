@@ -1,0 +1,1 @@
+print(s.div(8,2))  # Returns 8/2 = 4

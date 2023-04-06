@@ -1,0 +1,1 @@
+win = curses.newwin(0,0)

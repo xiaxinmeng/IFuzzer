@@ -1,0 +1,2 @@
+
+Integral.register(int)

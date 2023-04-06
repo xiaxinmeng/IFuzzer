@@ -1,0 +1,2 @@
+
+inspect.isfunction(abs)

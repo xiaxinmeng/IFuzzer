@@ -1,0 +1,1 @@
+urlsplit('cnn.com',scheme='http')

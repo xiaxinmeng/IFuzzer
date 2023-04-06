@@ -1,0 +1,1 @@
+httpRE = re.compile(r'(?i)http://([^/]+)')

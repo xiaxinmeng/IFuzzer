@@ -1,0 +1,1 @@
+os.system("copy whatever somewhereelse")

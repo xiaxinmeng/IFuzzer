@@ -1,0 +1,3 @@
+with mbox(...) as mb:
+    mb.lock()
+    # ...

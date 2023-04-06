@@ -1,0 +1,1 @@
+def testGetAttributeNode(self): pass

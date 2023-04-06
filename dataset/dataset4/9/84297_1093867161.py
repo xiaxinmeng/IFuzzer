@@ -1,0 +1,1 @@
+order = (order<<4) | insertion_index

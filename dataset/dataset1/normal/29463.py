@@ -1,0 +1,2 @@
+def foo():
+   "doc" + "string"

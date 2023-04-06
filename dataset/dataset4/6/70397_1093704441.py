@@ -1,0 +1,1 @@
+smtpd.PureProxy(localaddr="host1", remoteaddr="host2")

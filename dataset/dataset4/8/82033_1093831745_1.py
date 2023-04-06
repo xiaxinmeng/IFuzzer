@@ -1,0 +1,1 @@
+pkl = pickle.dumps(Spam._Spam__eggs)    # Pickling function in Spam class, not bound method of Spam instance

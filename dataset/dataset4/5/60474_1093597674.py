@@ -1,0 +1,1 @@
+fobj = urllib.request.urlopen( url )

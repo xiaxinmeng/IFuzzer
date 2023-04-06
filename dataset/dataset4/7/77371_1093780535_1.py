@@ -1,0 +1,1 @@
+C = new_class("C", (MyABC,), {}, exec_body=lambda ns: ns.update(namespace))

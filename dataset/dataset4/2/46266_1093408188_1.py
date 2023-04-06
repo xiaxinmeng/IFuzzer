@@ -1,0 +1,1 @@
+email.Header.Header.__class__ = CompatibleHeader

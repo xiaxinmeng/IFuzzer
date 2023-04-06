@@ -1,0 +1,1 @@
+self.assertEqual(c.attr, 1)

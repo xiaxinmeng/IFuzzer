@@ -1,0 +1,1 @@
+archive_root = os.path.join(self.bdist_dir, os.path.splitdrive(install.install_base)[1].lstrip(os.sep))

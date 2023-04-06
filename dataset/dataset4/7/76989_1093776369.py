@@ -1,0 +1,1 @@
+f = subprocess.check_output(['svn.exe', '--help'])

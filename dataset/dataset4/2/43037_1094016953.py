@@ -1,0 +1,5 @@
+source = open('myfile.xxx', 'r')
+dest = open('copy_myfile.xxx', 'w')
+dest.write(source.read())
+source.close()
+dest.close()

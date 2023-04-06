@@ -1,0 +1,1 @@
+ainv=_sqrt(2.0 * alpha - 1.0)

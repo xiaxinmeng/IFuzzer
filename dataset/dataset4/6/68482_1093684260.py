@@ -1,0 +1,1 @@
+warnings.filterwarnings("default", category=DeprecationWarning, module="__main__")

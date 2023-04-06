@@ -1,0 +1,1 @@
+batch_result = SFbulk.get_batch_results(batch, result_id, job, maxfields=1)

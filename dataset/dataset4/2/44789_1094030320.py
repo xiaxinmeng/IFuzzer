@@ -1,0 +1,1 @@
+tkversion=Tkinter.Tk().tk.eval('info patchlevel') 

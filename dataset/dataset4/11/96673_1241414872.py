@@ -1,0 +1,1 @@
+mem[w] = w2pow(w2) * w2pow(w - w2)

@@ -1,0 +1,1 @@
+msg = self.format(record)

@@ -1,0 +1,1 @@
+context = min(context,len(lines))

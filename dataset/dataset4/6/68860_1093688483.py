@@ -1,0 +1,1 @@
+shutil.rmtree(u"filename.txt")

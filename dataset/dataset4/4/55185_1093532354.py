@@ -1,0 +1,1 @@
+json.loads(response.data, 'latin-1')

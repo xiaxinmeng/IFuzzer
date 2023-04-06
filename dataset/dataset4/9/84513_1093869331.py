@@ -1,0 +1,3 @@
+def _install(_bootstrap_module):
+    ...
+    sys.meta_path.append(PathFinder)

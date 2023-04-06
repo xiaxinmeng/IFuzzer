@@ -1,0 +1,1 @@
+print(f'{addr:20s} {hostname}')

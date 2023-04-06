@@ -1,0 +1,1 @@
+ParseResult(scheme='http', netloc='user:pass?word@example.com', path='/path', params='', query='query', fragment='')

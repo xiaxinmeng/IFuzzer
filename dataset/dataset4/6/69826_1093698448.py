@@ -1,0 +1,1 @@
+message_from_string(s, _class=EmailMessage)

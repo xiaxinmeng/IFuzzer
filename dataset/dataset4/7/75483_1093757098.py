@@ -1,0 +1,5 @@
+server_ssl = smtplib.SMTP(SERVER, PORT)
+server_ssl.set_debuglevel(True)
+server_ssl.ehlo()
+server_ssl.starttls()
+server_ssl.login(USER_FOR_AUTHENTICATION, XXXXXX)

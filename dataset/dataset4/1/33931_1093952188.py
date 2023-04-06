@@ -1,0 +1,1 @@
+a=UserString.UserString('/etc/passwd')

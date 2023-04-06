@@ -1,0 +1,1 @@
+aiohttp.payload.PAYLOAD_REGISTRY.register(aiohttp.payload.IOBasePayload, tempfile.TemporaryFile)

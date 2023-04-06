@@ -1,0 +1,1 @@
+GITTAG="git -C \$(srcdir) describe --all --always --dirty"

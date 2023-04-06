@@ -1,0 +1,1 @@
+zlib.compress(data) # can't use wbits here

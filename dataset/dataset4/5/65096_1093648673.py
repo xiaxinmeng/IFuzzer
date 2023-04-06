@@ -1,0 +1,2 @@
+class SuperSubber(META):
+    pass

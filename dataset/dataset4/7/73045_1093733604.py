@@ -1,0 +1,1 @@
+os.path.ismount("F:\\doesnotexist")

@@ -1,0 +1,1 @@
+Animal = Enum('Animal', 'ant bee cat dog', start = 0)

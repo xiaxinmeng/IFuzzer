@@ -1,0 +1,1 @@
+split(join(split(cmd, posix=True)), posix=True) == split(cmd, posix=True)

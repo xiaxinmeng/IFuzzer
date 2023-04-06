@@ -1,0 +1,1 @@
+self.addCleanup(support.unlink, _fname + ".dir")

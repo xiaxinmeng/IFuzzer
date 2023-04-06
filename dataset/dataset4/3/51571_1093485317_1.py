@@ -1,0 +1,1 @@
+s.settimeout(15)

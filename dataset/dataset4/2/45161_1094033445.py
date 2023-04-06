@@ -1,0 +1,1 @@
+urllib2.build_opener(func_returning_cookie_jar())

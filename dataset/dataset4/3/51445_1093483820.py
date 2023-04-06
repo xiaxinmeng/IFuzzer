@@ -1,0 +1,1 @@
+list(filter(None, '00010001'.split('0')))

@@ -1,0 +1,1 @@
+stream_handler.setFormatter(formatter)

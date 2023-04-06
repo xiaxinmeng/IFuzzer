@@ -1,0 +1,1 @@
+min(delay * 2, remaining, .05)

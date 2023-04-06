@@ -1,0 +1,1 @@
+logger.setLevel(logging.DEBUG)

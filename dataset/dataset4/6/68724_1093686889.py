@@ -1,0 +1,1 @@
+if not hasattr(src, 'read'): src = open(src)

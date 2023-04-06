@@ -1,0 +1,1 @@
+have_fmt_spec = (oparg & FVS_MASK) == FVS_HAVE_SPEC;

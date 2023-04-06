@@ -1,0 +1,1 @@
+x = xmp('/home/pierre/devt/port/IPTCCore-Full/x.xmp')

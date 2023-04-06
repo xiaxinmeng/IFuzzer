@@ -1,0 +1,1 @@
+readline.set_completer(self.old_completer)

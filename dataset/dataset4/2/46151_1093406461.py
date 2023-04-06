@@ -1,0 +1,1 @@
+sorted(seq, key=operator.attrgetter('person.displayname'))

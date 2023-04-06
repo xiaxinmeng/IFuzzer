@@ -1,0 +1,1 @@
+data = [Counter({random.choice(['foo', 'bar', 'baz', 'qux']): random.randint(1,1000000)}) for _ in range(10000)]

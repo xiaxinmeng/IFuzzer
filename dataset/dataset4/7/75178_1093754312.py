@@ -1,0 +1,1 @@
+logger.misc(__('User {} logged in', username))

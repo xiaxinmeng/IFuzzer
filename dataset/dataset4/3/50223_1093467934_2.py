@@ -1,0 +1,1 @@
+col2_gen  = (a[2] for a in A) 

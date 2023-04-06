@@ -1,0 +1,1 @@
+s = socket.fromfd(fd, family, type_, proto)

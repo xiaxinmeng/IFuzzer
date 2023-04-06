@@ -1,0 +1,1 @@
+encoded = text.replace('\\', r'\u005c').encode('raw-unicode-escape')

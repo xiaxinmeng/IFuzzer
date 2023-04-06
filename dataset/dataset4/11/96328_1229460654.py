@@ -1,0 +1,2 @@
+
+ismount("/root/foo")

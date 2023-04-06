@@ -1,0 +1,1 @@
+UnionType = type(int | str)

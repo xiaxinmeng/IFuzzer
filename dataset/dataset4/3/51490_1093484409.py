@@ -1,0 +1,1 @@
+import _tkinter # If this fails your Python may not be configured for Tk

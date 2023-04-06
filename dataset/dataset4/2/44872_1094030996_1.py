@@ -1,0 +1,1 @@
+i = t.gettarinfo('mac.txt')

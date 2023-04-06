@@ -1,0 +1,1 @@
+txt = re.sub(r'\s*\Z', "\n", txt)

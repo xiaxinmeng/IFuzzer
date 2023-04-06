@@ -1,0 +1,1 @@
+t = threading.Thread(target=do_loop, args=(loop,))

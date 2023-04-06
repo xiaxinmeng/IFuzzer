@@ -1,0 +1,1 @@
+t = threading.Thread(target=access, args=(thread_number,))

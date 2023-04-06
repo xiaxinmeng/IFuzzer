@@ -1,0 +1,5 @@
+self.parser = ErrorRaisingArgumentParser()
+self.parser.add_argument('-a', action='store_true')
+self.parser.add_argument('-b')
+self.parser.add_argument('rem', nargs=argparse.REMAINDER)
+self.assertEquals(self.parser.parse_args('-b 4 -a  -b 5'.split()), NS(a=True, b='5', rem=[]))

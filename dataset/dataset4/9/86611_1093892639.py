@@ -1,0 +1,3 @@
+def __on_event(self, ev):
+    ...
+    asyncio.run_coroutine_threadsafe(self.mqtt_client.publish_json(INGESTION_TOPIC, msg), loop=self.publish_loop)

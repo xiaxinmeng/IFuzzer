@@ -1,0 +1,1 @@
+reader = csv.DictReader(fileobj, fieldnames=next(csv.reader(fileobj)))

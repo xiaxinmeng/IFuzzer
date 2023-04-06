@@ -1,0 +1,1 @@
+c.send(b"HTTP/1.1 200 Okay\r\nContent-Length: 0\r\n\r\n" b"HTTP/")

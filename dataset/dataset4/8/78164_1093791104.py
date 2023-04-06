@@ -1,0 +1,1 @@
+grandchildren = [*node.children[0].children, *node.children[1].children]

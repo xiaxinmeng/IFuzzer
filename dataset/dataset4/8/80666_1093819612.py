@@ -1,0 +1,1 @@
+sys.register_cache_clear_function(callback=purge, doc='pattern cache and re cache')

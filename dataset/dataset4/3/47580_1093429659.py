@@ -1,0 +1,1 @@
+webbrowser.open("http://foo.com/bar.html?var=x%7Cy%7Cz")

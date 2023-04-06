@@ -1,0 +1,1 @@
+s = S("# ! ~"*50)  # hopefully will not be interned

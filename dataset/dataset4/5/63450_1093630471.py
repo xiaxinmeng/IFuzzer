@@ -1,0 +1,1 @@
+self.h = [self.h[i] ^ v[i] ^ v[i+8] for i in range(8)]

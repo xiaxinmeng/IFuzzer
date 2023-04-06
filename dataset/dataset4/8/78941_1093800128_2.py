@@ -1,0 +1,2 @@
+issubclass(B, A)
+False

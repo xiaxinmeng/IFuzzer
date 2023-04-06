@@ -1,0 +1,2 @@
+
+rd = StreamReader(loop=loop)

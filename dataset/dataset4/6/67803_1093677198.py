@@ -1,0 +1,1 @@
+from builtins import open as _builtin_open

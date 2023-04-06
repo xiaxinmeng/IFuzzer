@@ -1,0 +1,1 @@
+__init__(self, screenName=None, baseName=None, className='Tk', useTk=1, sync=0, use=None)

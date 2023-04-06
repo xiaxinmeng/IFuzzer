@@ -1,0 +1,1 @@
+cell_re = re.compile(SpecialRules.cell, re.VERBOSE | re.UNICODE)

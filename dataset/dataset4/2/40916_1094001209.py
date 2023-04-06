@@ -1,0 +1,1 @@
+compiler_cxx='g++ -mno-cygwin -O -Wall',

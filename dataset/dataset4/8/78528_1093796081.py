@@ -1,0 +1,1 @@
+byte_str.decode('ascii', 'surragateescape')

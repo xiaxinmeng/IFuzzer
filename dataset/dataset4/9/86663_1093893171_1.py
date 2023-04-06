@@ -1,0 +1,1 @@
+os.access(p, os.X_OK)

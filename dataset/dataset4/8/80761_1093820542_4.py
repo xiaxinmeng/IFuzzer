@@ -1,0 +1,1 @@
+dir(create_autospec(Foo))

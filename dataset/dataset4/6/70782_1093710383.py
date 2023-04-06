@@ -1,0 +1,1 @@
+self.mem  = c_char_p(mem)

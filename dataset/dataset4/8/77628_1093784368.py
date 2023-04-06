@@ -1,0 +1,1 @@
+async def foo(a, b): return 5 + await bar(b)

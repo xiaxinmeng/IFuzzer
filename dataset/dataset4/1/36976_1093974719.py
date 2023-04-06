@@ -1,0 +1,1 @@
+unitext.encode("ascii", errors = "xmlcharrefreplace")

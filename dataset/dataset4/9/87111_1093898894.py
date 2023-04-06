@@ -1,0 +1,1 @@
+self._finalizer = weakref.finalize(self, shutil.rmtree, self.name)

@@ -1,0 +1,1 @@
+input_charset = unicode(input_charset, 'ascii').lower()

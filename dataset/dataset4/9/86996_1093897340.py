@@ -1,0 +1,1 @@
+os.unlink(file_path) 

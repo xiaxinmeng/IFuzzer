@@ -1,0 +1,1 @@
+z = list(zip(j, k))

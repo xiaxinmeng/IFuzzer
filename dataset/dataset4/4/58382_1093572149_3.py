@@ -1,0 +1,1 @@
+Namespace(arg1=False, args=['--arg1', 'XX', 'ZZ'], command='cmd', foo='B')

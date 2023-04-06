@@ -1,0 +1,3 @@
+a = ContextVar('a')
+with a.set(1234):
+    ...

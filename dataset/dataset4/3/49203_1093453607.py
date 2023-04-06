@@ -1,0 +1,1 @@
+fp = sys.stdin.detach()

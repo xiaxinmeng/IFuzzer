@@ -1,0 +1,1 @@
+DEVNULL = os.open(os.devnull, os.OS_RDWR)

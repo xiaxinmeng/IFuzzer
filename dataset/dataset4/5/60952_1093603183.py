@@ -1,0 +1,2 @@
+class TestPyAndCMixin:
+    module = None

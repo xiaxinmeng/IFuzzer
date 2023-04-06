@@ -1,0 +1,1 @@
+from strop import *

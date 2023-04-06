@@ -1,0 +1,1 @@
+tarfile.open(name=_tmp_tar, mode='w', bufsize=EXPECTED_SIZE)

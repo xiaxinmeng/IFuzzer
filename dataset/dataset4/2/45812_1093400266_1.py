@@ -1,0 +1,1 @@
+fcntl.ioctl(fd, termios.TIOCSWINSZ, struct.pack("HHHH",80,25,0,0))

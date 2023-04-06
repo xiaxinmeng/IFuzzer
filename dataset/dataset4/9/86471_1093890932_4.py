@@ -1,0 +1,1 @@
+text = entry.text.get()

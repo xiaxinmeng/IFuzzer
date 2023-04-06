@@ -1,0 +1,1 @@
+'"-".join(map(str, range(100)))'

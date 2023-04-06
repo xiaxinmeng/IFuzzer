@@ -1,0 +1,1 @@
+array.fromfile(f, n)

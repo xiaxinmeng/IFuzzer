@@ -1,0 +1,1 @@
+sys.flags(debug=0, inspect=0, interactive=0, optimize=2, dont_write_bytecode=0, no_user_site=0, no_site=0, ignore_environment=0, verbose=0, bytes_warning=0, quiet=0, hash_randomization=1, isolated=0, dev_mode=False, utf8_mode=1)

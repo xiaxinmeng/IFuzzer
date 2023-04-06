@@ -1,0 +1,2 @@
+s = 'abçd'
+print (s)

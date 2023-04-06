@@ -1,0 +1,1 @@
+rte_ecu_tree.write(rtexmlFile, encoding="UTF-8", xml_declaration=True, default_namespace=None, method="xml",short_empty_elements=True )

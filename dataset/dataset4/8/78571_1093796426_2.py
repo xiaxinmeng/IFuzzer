@@ -1,0 +1,1 @@
+parser.parse_args(['--list-arg', 'a', '--text-arg=hello world'])

@@ -1,0 +1,1 @@
+find_output = re.compile(r"/\* (Output:.*)\*/", re.DOTALL)

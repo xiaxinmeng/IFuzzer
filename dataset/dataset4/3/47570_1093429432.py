@@ -1,0 +1,1 @@
+_logger.propogate = 0

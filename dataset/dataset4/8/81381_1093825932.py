@@ -1,0 +1,1 @@
+size = _PyObject_VAR_SIZE(type, nitems+1);

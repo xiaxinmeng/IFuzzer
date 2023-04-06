@@ -1,0 +1,1 @@
+subprocess.run(["ls", "--help"], shell=True)

@@ -1,0 +1,1 @@
+_returns_new_status = subprocess.getstatusoutput('kill $$')[0] < 0

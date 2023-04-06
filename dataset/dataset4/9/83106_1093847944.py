@@ -1,0 +1,1 @@
+colVals = unicode(", ".join(stringList), 'utf-8')

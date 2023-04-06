@@ -1,0 +1,2 @@
+if call(...):
+    raise OSError(...)

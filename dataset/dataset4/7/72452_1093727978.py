@@ -1,0 +1,1 @@
+b.__getattribute__(abs, 'x')

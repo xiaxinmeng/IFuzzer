@@ -1,0 +1,1 @@
+TixWidget.__init__(self, ... ,['labelside', 'options'], ... )

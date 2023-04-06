@@ -1,0 +1,2 @@
+class c(file):
+    pass

@@ -1,0 +1,1 @@
+import dcacheYaimInstallerTest.logger as logger

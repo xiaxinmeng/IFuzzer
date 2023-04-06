@@ -1,0 +1,1 @@
+exec('X: int; Z: str = "Z"; (w): complex = 1j', ns)

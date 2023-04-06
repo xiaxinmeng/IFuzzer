@@ -1,0 +1,1 @@
+i = bisect.bisect_left(SS, C2)

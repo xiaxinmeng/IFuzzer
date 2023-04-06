@@ -1,0 +1,1 @@
+Logger.exception(msg, *args)

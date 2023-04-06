@@ -1,0 +1,6 @@
+if sys.platform == 'win32':
+    class Arena(object):
+        ...
+else:
+    class Arena(object):
+        ...

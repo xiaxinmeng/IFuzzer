@@ -1,0 +1,29 @@
+import test.support
+from test.support import threading_helper
+from test.support import verbose, cpython_only
+from test.support.import_helper import import_module
+from test.support.script_helper import assert_python_ok, assert_python_failure
+import random
+import sys
+import _thread
+import threading
+import time
+import unittest
+import weakref
+import os
+import subprocess
+import signal
+import textwrap
+from unittest import mock
+from test import lock_tests
+from test import support
+import _testcapi
+import test_threading
+
+def test__all__():
+    extra = {'ThreadError'}
+    not_exported = {'currentThread', 'activeCount'}
+    support.check__all__(MiscTestCase, threading, ('threading', '_thread'), extra=extra, not_exported=not_exported)
+
+MiscTestCase = test_threading.MiscTestCase()
+test__all__()

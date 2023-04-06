@@ -1,0 +1,1 @@
+self._poll = self._reader.poll

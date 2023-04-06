@@ -1,0 +1,1 @@
+env_val = re.sub(r'(^|\s+)-(-|(?!%s))\S*' % arg_name[1], '', env_val)

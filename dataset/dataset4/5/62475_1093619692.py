@@ -1,0 +1,3 @@
+existing_loader = SourceFileLoader(...)
+lazy_loader = LazyLoader(existing_loader)
+...

@@ -1,0 +1,1 @@
+execute("UPDATE authors set name = ?, email = ?, comment = ? WHERE id = ?", (form.name, form.email, form.text, form.id))

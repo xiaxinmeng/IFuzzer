@@ -1,0 +1,1 @@
+insize = globals()[digestname].digestsize

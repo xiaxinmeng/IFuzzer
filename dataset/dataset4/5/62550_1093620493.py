@@ -1,0 +1,1 @@
+self.stream = unittest.runner._WriteInDecorator(StringIO())

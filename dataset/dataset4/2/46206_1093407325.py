@@ -1,0 +1,1 @@
+webbrowser.open('http://example.com')

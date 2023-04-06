@@ -1,0 +1,1 @@
+localeconv.__doc__ = _localeconv.__doc__

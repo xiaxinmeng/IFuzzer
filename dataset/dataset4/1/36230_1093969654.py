@@ -1,0 +1,1 @@
+result=o.read()+e.read() 

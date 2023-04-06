@@ -1,0 +1,1 @@
+logger.debug("My object: %s", myObject)

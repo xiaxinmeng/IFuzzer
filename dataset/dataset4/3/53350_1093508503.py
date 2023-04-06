@@ -1,0 +1,1 @@
+optimized_module = {'pickle': '_pickle'}

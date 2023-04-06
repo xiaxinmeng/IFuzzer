@@ -1,0 +1,1 @@
+self.assertEqual({'key': 'value'}, dict(foo))

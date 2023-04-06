@@ -1,0 +1,5 @@
+t1=time.time()
+cProfile.run("fs = cgi.FieldStorage()")
+print(str(len(fs['datafile'].value)))
+t2 = time.time()
+print(str(t2 - t1))

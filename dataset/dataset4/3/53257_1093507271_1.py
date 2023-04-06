@@ -1,0 +1,6 @@
+st = parser.expr("-3")
+print(st.totuple())
+compiled = st.compile()
+print(eval(compiled))
+print(st.totuple())
+print(eval(st.compile()))

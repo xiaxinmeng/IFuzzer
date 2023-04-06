@@ -1,0 +1,1 @@
+platform.popen(cmd, mode='r', bufsize=None)

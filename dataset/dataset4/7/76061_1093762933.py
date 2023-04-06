@@ -1,0 +1,1 @@
+proc.stdin.flush()  # send the command in python 3.4+

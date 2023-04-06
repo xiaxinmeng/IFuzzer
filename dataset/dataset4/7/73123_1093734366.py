@@ -1,0 +1,1 @@
+rest = re.split(" +", rest)[0].strip()

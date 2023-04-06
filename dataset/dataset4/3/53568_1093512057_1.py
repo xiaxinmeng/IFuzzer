@@ -1,0 +1,1 @@
+ext_modules=[Extension('foo', ['src/foo.c'])],

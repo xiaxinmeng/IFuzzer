@@ -1,0 +1,1 @@
+d = datetime.strptime("Mon Jan  1 00:00:00 0001 +01:00", "%c %z")

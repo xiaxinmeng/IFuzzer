@@ -1,0 +1,5 @@
+sqlite3_not_from_apsw = sqlite3.connect(':memory:')
+apsw_conn = apsw.Connection(':memory:')
+sqlite3_from_apsw = sqlite3.connect(apsw_conn)
+cursor_not_from_apsw = sqlite3_not_from_apsw.cursor()
+cursor_from_apsw = sqlite3_from_apsw.cursor()

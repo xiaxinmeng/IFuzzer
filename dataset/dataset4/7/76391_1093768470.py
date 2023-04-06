@@ -1,0 +1,1 @@
+call_func(info_add, 'sys.androidapilevel', sys, 'getandroidapilevel')

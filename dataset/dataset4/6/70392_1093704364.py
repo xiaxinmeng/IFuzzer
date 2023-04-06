@@ -1,0 +1,2 @@
+def func():
+   func2(),

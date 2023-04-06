@@ -1,0 +1,1 @@
+print("sock_err @ ", msg[1], msg[1]._closed, msg[1].fileno())  # Expect True, -1

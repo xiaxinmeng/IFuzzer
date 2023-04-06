@@ -1,0 +1,1 @@
+Subprocess.Popen('python -v',stdout=PIPE,stderr=PIPE,Shell=True)

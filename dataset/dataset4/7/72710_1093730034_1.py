@@ -1,0 +1,1 @@
+logging.disable(logging.CRITICAL)

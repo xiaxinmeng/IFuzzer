@@ -1,0 +1,3 @@
+async with async_data_feeder.open() as feed:
+  async for chunk in feed.iter_chunked():
+    ...

@@ -1,0 +1,1 @@
+list(combinations(range(3)))

@@ -1,0 +1,1 @@
+line_increments = [ord(c) for c in code.co_lnotab[1::2]]

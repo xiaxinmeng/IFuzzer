@@ -1,0 +1,1 @@
+def f(a: (yield)): pass

@@ -1,0 +1,1 @@
+if lines /usr/include/ncurses.h:288-293 

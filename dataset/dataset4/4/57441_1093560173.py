@@ -1,0 +1,1 @@
+s = s + record.exc_text.decode(sys.getfilesystemencoding(), 'replace')

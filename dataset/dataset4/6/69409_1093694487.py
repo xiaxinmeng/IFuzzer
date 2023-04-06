@@ -1,0 +1,2 @@
+evil = {}
+evil['evil'] = evil

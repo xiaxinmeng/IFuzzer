@@ -1,0 +1,1 @@
+memoryview.cast('B')

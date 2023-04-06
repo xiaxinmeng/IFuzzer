@@ -1,0 +1,1 @@
+phrase          =       1*word / obs-phrase

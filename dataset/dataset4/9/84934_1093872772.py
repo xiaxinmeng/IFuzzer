@@ -1,0 +1,1 @@
+tarfile.open( "foo.txt" )

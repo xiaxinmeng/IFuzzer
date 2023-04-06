@@ -1,0 +1,1 @@
+mycall(otherlib(foo))

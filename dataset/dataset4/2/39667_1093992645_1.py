@@ -1,0 +1,1 @@
+trans = gettext.GNUTranslations(open('en.mo','rb'))

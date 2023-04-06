@@ -1,0 +1,1 @@
+stdin = sys.stderr, stdout = sys.stdin, stderr = sys.stdout

@@ -1,0 +1,1 @@
+subprocess.getoutput("echo before & python -V & echo after")

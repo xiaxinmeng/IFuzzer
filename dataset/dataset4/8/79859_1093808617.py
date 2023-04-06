@@ -1,0 +1,1 @@
+subprocess.check_output([execStr,"-3",self.geofile,"-o",self.vtkFile])

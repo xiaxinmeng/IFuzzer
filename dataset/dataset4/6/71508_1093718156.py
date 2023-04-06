@@ -1,0 +1,1 @@
+msg = email.message_from_binary_file(open('bad_email', 'rb'))

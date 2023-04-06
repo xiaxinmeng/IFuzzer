@@ -1,0 +1,2 @@
+class SyncManager(BaseManager):
+  pass

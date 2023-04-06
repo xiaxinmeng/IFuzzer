@@ -1,0 +1,1 @@
+check_force_ascii()

@@ -1,0 +1,1 @@
+foo = _("{first}, bar, and {last}").format(**globals())

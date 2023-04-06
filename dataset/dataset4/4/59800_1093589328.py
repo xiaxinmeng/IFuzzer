@@ -1,0 +1,1 @@
+locale.getpreferredencoding = lambda do_setlocale: 'utf-16'

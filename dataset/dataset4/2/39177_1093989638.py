@@ -1,0 +1,1 @@
+name = self.tk.call('tk_focusNext', self._w)

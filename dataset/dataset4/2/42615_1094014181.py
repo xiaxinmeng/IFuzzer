@@ -1,0 +1,1 @@
+tar = tarfile.open("/dev/st0", "w|")

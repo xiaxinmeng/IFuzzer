@@ -1,0 +1,1 @@
+coverdir = os.path.join(support.SAVEDCWD, a)

@@ -1,0 +1,1 @@
+all([x < limit for x in items])

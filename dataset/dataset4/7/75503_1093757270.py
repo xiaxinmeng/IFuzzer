@@ -1,0 +1,1 @@
+new_NS=SimpleNamespace(**namespace.__dict__.copy())

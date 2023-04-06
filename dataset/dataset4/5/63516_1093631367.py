@@ -1,0 +1,1 @@
+ctypes.cdll.LoadLibrary('libmagic.so.1')

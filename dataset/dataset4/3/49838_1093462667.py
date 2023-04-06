@@ -1,0 +1,1 @@
+random_seed = int(1000000 * random.random())

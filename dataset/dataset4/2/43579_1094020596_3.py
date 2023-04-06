@@ -1,0 +1,1 @@
+def degrees(fullcircle=360.0): _getpen().degrees(fullcircle)

@@ -1,0 +1,1 @@
+writer.writestr('zinfo_or_arcname', b'foo')

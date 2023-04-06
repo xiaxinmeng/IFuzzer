@@ -1,0 +1,1 @@
+redirect_request(self, req, fp, code, msg, hdrs, newurl)

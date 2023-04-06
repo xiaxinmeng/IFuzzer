@@ -1,0 +1,1 @@
+re.match('abc','abc',re.FULLMATCH)

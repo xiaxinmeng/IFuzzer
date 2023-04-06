@@ -1,0 +1,1 @@
+msg_abuse = email.parser.Parser(policy=email.policy.default + email.policy.strict).parsestr(mail)

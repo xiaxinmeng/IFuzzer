@@ -1,0 +1,1 @@
+multiprocessing.allow_connection_pickling()

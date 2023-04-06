@@ -1,0 +1,1 @@
+trunc(Decimal(integer_with_30_digits)) 

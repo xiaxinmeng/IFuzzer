@@ -1,0 +1,1 @@
+self.assertRaises(RuntimeError, all, TestFailingIter())

@@ -1,0 +1,1 @@
+m = memoryview(x, format='L', shape=[3, 4])

@@ -1,0 +1,1 @@
+parser.add_argument("--version", action="version", version="test 1.2.3")

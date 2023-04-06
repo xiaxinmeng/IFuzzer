@@ -1,0 +1,1 @@
+hotshot.stats.load("myprofiling_file.prof")

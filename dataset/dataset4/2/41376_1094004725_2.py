@@ -1,0 +1,1 @@
+l = [ randfunc(123,i,...) for i in range(5) ]

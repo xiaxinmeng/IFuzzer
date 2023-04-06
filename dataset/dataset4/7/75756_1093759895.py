@@ -1,0 +1,1 @@
+total = functools.reduce(lambda a, b: (0, a[1] + b[1]), items)[1]

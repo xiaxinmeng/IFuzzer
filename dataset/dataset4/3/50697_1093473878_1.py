@@ -1,0 +1,1 @@
+result = find_module('mod', ['/path'])

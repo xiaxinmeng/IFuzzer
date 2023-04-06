@@ -1,0 +1,2 @@
+
+assert (var := None)

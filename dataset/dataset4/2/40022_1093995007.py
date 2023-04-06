@@ -1,0 +1,1 @@
+addr = socket.gethostbyname(socket.gethostname())

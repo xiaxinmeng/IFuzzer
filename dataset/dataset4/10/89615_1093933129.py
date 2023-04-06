@@ -1,0 +1,1 @@
+dbm.gdbm_failure_atomic('snapshot_path0', 'snapshot_path1')

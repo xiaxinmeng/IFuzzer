@@ -1,0 +1,2 @@
+import tkFileDialog
+tkFileDialog.askopenfile()

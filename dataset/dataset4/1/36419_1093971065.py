@@ -1,0 +1,1 @@
+NewClass.__doc__   = 'object=None    type=NewClass'

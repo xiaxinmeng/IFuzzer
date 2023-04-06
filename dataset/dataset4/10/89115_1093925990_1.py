@@ -1,0 +1,1 @@
+items = [item for item in items if not (item.isspace() or item == '')]

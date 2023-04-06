@@ -1,0 +1,1 @@
+JSONType = t.Union[str, int, float, bool, None, t.Dict[str, t.Any], t.List[Any]]

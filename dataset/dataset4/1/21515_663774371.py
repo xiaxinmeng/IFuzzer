@@ -1,0 +1,2 @@
+
+isinstance(AbstractChild(), AbstractChild | int)

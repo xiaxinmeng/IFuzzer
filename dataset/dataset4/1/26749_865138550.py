@@ -1,0 +1,6 @@
+
+unittest.test.test_discovery.TestDiscovery.test_discovery_failed_discovery
+unittest.test.testmock.testpatch.PatchTest.test_patch_wont_create_by_default
+test.test_doctest.TestDocTestFinder.test_empty_namespace_package
+test.test_doctest.TestDocTestFinder.test_issue35753
+test.test_descr.ClassPropertiesAndMethods.test_uninitialized_modules

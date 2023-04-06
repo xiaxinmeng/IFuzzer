@@ -1,0 +1,1 @@
+os.rename('/tmp/foo', '/tmp/bar')

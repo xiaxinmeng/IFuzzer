@@ -1,0 +1,1 @@
+urllib.parse.quote("/", safe=[])

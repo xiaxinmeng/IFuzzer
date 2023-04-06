@@ -1,0 +1,5 @@
+d = {
+'''
+Commented dictionary values
+'''
+}

@@ -1,0 +1,1 @@
+d = D.from_fraction(5, 7)

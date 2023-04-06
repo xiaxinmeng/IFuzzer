@@ -1,0 +1,1 @@
+faulthandler.register(signal.SIGUSR1)

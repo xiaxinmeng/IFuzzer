@@ -1,0 +1,1 @@
+urlparse.uses_fragment.extend(wsschemes)

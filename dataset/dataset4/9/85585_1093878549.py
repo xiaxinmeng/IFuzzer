@@ -1,0 +1,1 @@
+dontCare = input('While this prompt for input is up, press Command q: ')

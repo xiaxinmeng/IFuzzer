@@ -1,0 +1,1 @@
+urlopen(Request("http://www.thomsonlocal.com/", headers={"User-Agent": "https://bugs.python.org/issue21896"}))

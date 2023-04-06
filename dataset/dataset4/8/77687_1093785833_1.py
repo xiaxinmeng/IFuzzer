@@ -1,0 +1,1 @@
+handler = TimedRotatingFileHandler("foo", suffix="-%Y%m%d", when="D")

@@ -1,0 +1,1 @@
+thread.start_new(win32ui.MessageBox, 'test')

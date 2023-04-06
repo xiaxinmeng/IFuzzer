@@ -1,0 +1,1 @@
+struct_size = ascii_struct_size if code < 0x80 else compact_struct_size

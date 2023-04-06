@@ -1,0 +1,1 @@
+import UserDict # from D:\p4\games\branches\development\MAIN\eve\dust\tool\bin/../../../../carbon/src/stackless/Lib/UserDict.py

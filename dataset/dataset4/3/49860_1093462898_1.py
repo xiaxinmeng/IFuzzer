@@ -1,0 +1,1 @@
+NLCRE_eol = re.compile('(\r\n|\r|\n)\Z')

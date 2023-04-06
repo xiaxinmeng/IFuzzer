@@ -1,0 +1,1 @@
+subprocess.check_call('""c:\some path with spaces" arg1 arg2 "a quoted arg""', shell=True)

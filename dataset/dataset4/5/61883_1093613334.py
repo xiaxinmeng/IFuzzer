@@ -1,0 +1,1 @@
+s.bind(b"\x00python\x00test\xff")

@@ -1,0 +1,1 @@
+MODULE = ('test.test_enum', '__main__')[__name__=='__main__'] 

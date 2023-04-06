@@ -1,0 +1,1 @@
+reader = csv.reader(TextIOWrapper(csvfile), *args, **kwargs)

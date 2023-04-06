@@ -1,0 +1,2 @@
+class Property(property):
+    pass

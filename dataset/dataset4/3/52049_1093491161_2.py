@@ -1,0 +1,1 @@
+handle = open("fetched_python_logo.jpg", "wb")

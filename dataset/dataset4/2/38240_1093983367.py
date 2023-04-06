@@ -1,0 +1,1 @@
+codecs.lookup("koi8-r")

@@ -1,0 +1,1 @@
+list(proxyOverrd.split(';'))

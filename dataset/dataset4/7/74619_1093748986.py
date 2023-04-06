@@ -1,0 +1,2 @@
+class TopicManager(SyncManager):
+    pass

@@ -1,0 +1,2 @@
+from multiprocessing import PriorityQueue
+test(PriorityQueue)

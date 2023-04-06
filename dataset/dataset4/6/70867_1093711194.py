@@ -1,0 +1,1 @@
+is_integral = lambda x:  isinstance(x, int) or isinstance(x, Fraction) and x.denominator == 1 or isinstance(x, float) and x.is_integer()

@@ -1,0 +1,1 @@
+urljoin('wais://foo@bar.com/mydb/type/path', '/newpath')

@@ -1,0 +1,1 @@
+call('solution', 'foo', {'__spots__': {}, '__event__': None, '__solution__': None})

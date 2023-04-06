@@ -1,0 +1,1 @@
+issubclass(obj.__class__, object) 

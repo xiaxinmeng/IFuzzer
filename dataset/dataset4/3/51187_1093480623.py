@@ -1,0 +1,1 @@
+util.debug('disposing of obj with id %d', ident)

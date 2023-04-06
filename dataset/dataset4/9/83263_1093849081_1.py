@@ -1,0 +1,21 @@
+print("Patching async static method")
+async_patcher = patch("__main__.Helper.async_class_method")
+print(f"{Helper.async_class_method = }")
+print(f"{Helper.__dict__['async_class_method'] = }")
+print(f"{inspect.iscoroutinefunction(Helper.async_class_method) = }")
+print(f"{inspect.iscoroutinefunction(Helper.__dict__['async_class_method']) = }")
+print(f"{inspect.iscoroutinefunction(getattr(Helper, 'async_class_method')) = }")
+
+mock_ = async_patcher.start()
+print(mock_)
+
+print("\nPatching async static method")
+async_patcher = patch("__main__.Helper.async_static_method")
+print(f"{Helper.async_static_method = }")
+print(f"{Helper.__dict__['async_static_method'] = }")
+print(f"{inspect.iscoroutinefunction(Helper.async_static_method) = }")
+print(f"{inspect.iscoroutinefunction(Helper.__dict__['async_static_method']) = }")
+print(f"{inspect.iscoroutinefunction(getattr(Helper, 'async_static_method')) = }")
+
+mock_ = async_patcher.start()
+print(mock_)

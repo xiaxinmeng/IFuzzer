@@ -1,0 +1,1 @@
+enumerate(sequence, start=0)

@@ -1,0 +1,1 @@
+result_buf = PyMem_Malloc(slicelength);

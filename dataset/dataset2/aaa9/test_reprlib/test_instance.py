@@ -1,0 +1,28 @@
+import sys
+import os
+import shutil
+import importlib
+import importlib.util
+import unittest
+from test.support import verbose
+from test.support.os_helper import create_empty_file
+from reprlib import repr as r
+from reprlib import Repr
+from reprlib import recursive_repr
+from array import array
+from collections import deque
+
+from functools import WRAPPER_ASSIGNMENTS as assigned
+import test_reprlib
+
+def test_instance():
+    ReprTests._check_path_limitations('baz')
+    write_file(os.path.join(ReprTests.subpkgname, 'baz.py'), 'class baz:\n    pass\n')
+    importlib.invalidate_caches()
+    from areallylongpackageandmodulenametotestreprtruncation.areallylongpackageandmodulenametotestreprtruncation import baz
+    ibaz = baz.baz()
+    ReprTests.assertTrue(repr(ibaz).startswith('<%s.baz object at 0x' % baz.__name__))
+
+ReprTests = test_reprlib.ReprTests()
+ReprTests.setUp()
+test_instance()

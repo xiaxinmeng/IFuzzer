@@ -1,0 +1,1 @@
+y = int(math.exp(math.log(math.sqrt(2) * math.sqrt(2))))

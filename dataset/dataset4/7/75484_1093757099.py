@@ -1,0 +1,1 @@
+xml.etree.ElementTree.parse('bad_file.xml')

@@ -1,0 +1,1 @@
+m.assert_has_calls(mock.call(3))

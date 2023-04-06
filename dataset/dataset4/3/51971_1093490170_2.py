@@ -1,0 +1,1 @@
+HTMLCalendar.formatyear(self, theyear, width=3)

@@ -1,0 +1,1 @@
+multiples_of_6 = (not (i % 6) for i in range(1, 10))

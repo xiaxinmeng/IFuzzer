@@ -1,0 +1,1 @@
+re.sub("<[^>]+>", "", content, re.S)

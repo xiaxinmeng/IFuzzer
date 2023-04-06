@@ -1,0 +1,1 @@
+self.producer_fifo.extendleft([data, first])

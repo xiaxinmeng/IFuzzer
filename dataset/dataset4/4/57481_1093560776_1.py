@@ -1,0 +1,3 @@
+
+def imap(): pass
+map()

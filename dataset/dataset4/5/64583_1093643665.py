@@ -1,0 +1,1 @@
+import tarfile; tarfile.open('non-existing', 'r|')

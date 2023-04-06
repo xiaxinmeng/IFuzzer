@@ -1,0 +1,1 @@
+print(Fore.GREEN,"Installed file ",e,Fore.WHITE)

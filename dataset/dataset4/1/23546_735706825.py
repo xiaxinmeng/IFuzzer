@@ -1,0 +1,6 @@
+
+try:
+    from termios import TIOCGWINSZ
+    ...
+except ImportError:
+    ...

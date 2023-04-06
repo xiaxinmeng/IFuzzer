@@ -1,0 +1,1 @@
+data = data.translate(YENC_TABLE, delete=b"\r\n")

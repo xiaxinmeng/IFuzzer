@@ -1,0 +1,23 @@
+
+from ast import FunctionDef, arguments, Load, Name, AnnAssign, Store, BinOp, Add, unparse
+unparse(FunctionDef(args=arguments(args=[],
+                       defaults=[],
+                       kw_defaults=[],
+                       kwarg=None,
+                       kwonlyargs=[],
+                       posonlyargs=[],
+                       vararg=None),
+        body=[AnnAssign(annotation='int',
+                        simple=1,
+                        target=Name(ctx=Store(),
+                                    id='res'),
+                        value=BinOp(left=Name(ctx=Load(),
+                                              id='a'),
+                                    op=Add(),
+                                    right=Name(ctx=Load(),
+                                               id='b')))],
+        decorator_list=[],
+        name='sum',
+        returns=None,
+        lineno=None,
+        type_comment=None))

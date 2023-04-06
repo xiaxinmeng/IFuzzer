@@ -1,0 +1,5 @@
+conn = httplib.HTTPConnection("uk.proxymesh.com", 31280)
+conn.set_tunnel("www.google.com", 80)
+conn.request("GET", "/")
+resp = conn.getresponse()
+print(resp.read())

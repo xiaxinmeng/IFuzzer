@@ -1,0 +1,1 @@
+print(f'{DummyImportHook.__name__}:auto script path to sys.path hook load!')

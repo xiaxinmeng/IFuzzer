@@ -1,0 +1,1 @@
+self.next = self.new_next_method

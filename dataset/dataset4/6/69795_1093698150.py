@@ -1,0 +1,3 @@
+if hasattr(contextlib, 'AbstractContextManager'):
+    class ContextManager(...): ...
+    __all__.append('ContextManager')

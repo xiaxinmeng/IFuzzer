@@ -1,0 +1,1 @@
+MyDclass = make_dataclass("MyDclass", (("var", MyTypeVar),), bases=(Generic[MyTypeVar],))

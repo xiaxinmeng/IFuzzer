@@ -1,0 +1,1 @@
+os.path.basename(sys.argv[0])

@@ -1,0 +1,1 @@
+exec("if True:\n" + " "*width + "1\n" + "\t2\n")

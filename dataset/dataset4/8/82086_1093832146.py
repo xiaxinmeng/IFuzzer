@@ -1,0 +1,1 @@
+n = 100_000; sum(m > w for m, w in zip(men.samples(n), women.samples(n))) / n

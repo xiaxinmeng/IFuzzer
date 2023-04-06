@@ -1,0 +1,1 @@
+value = unicode(value).encode("utf-8")

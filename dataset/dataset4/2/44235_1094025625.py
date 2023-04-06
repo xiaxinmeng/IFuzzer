@@ -1,0 +1,1 @@
+microseconds = int(float("0." + timepart_full[1]) * 1000000)

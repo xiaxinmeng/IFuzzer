@@ -1,0 +1,1 @@
+archs = tuple(sorted(list(set(archs))))

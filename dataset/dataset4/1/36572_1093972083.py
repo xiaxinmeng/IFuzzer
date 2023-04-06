@@ -1,0 +1,1 @@
+if not callable(callback):  callback = print_line

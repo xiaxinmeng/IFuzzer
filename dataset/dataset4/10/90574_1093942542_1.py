@@ -1,0 +1,1 @@
+MODULE = ('test.test_typing', '__main__')[__name__=='__main__']

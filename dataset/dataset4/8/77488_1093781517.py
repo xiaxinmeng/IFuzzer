@@ -1,0 +1,1 @@
+socket.setblocking(0)

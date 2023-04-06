@@ -1,0 +1,1 @@
+script = 'do shell script "open %s"' % url.replace('"', '%22')

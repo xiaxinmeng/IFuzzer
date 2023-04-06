@@ -1,0 +1,1 @@
+value = my_mul(const, value) ^ hash(item)

@@ -1,0 +1,1 @@
+enumerate(letters[::3])

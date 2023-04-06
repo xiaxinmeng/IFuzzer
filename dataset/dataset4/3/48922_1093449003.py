@@ -1,0 +1,1 @@
+swig_opts=['-c++', '-I@HEPMCINCPATH@', '-outdir', '.']

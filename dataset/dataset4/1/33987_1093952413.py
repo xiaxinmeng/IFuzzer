@@ -1,0 +1,1 @@
+while 1: compile("print 'hello'\n", "<string>", "exec")

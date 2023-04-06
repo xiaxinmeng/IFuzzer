@@ -1,0 +1,1 @@
+output = subprocess.Popen(["/bin/env %s /usr/bin/ssh -ttt %s@%s -- %s;" % (env, user, host, command)], stdout=subprocess.PIPE, stderr=subprocess.PIPE, shell=True).communicate()

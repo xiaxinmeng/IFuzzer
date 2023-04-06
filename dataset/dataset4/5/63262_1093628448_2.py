@@ -1,0 +1,1 @@
+userDir = os.path.expandvars(os.path.expanduser('~'))

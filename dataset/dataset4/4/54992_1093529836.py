@@ -1,0 +1,1 @@
+struct.pack("10s", x.encode('utf-8'))

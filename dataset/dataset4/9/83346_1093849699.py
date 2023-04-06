@@ -1,0 +1,1 @@
+findfirst(..., default='0')

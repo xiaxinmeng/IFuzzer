@@ -1,0 +1,1 @@
+curses.setupterm([termstr, fd])

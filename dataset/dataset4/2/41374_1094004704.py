@@ -1,0 +1,1 @@
+recv_size = max(self._rbufsize, left)

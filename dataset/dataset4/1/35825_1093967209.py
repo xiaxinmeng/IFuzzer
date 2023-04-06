@@ -1,0 +1,1 @@
+cPickle.dumps(time.localtime())

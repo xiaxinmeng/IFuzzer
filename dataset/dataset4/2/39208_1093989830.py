@@ -1,0 +1,1 @@
+urllib2.urlopen("www.python.org", timeout = 5)

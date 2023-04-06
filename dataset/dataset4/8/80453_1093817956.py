@@ -1,0 +1,4 @@
+def rec():
+    rec()
+
+rec()

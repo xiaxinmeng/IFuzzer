@@ -1,0 +1,3 @@
+rl_event_hook = PyOS_InputHook;
+...   
+p = readline(prompt);

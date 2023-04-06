@@ -1,0 +1,1 @@
+sorted(MyData(my_data_instance))

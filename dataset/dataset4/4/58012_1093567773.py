@@ -1,0 +1,1 @@
+self.questions = [topic.questions for topic in self.topics]

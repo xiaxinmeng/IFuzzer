@@ -1,0 +1,1 @@
+sID = sHeader[1:].split(None, 1)[0]

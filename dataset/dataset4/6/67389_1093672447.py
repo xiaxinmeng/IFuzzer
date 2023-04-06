@@ -1,0 +1,1 @@
+self.assertFalse(dco.flush())

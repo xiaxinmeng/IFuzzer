@@ -1,0 +1,1 @@
+ExmplTests.myTest = lambda: 1+2

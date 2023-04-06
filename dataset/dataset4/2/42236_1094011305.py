@@ -1,0 +1,1 @@
+assert(__name__ == "server.Stream.Stream")

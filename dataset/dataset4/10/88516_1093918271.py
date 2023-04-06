@@ -1,0 +1,1 @@
+window.wm_attributes("-titlepath", stringContainingTheAbsolutePathOfTheDocument)

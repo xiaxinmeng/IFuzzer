@@ -1,0 +1,3 @@
+fs = cgi.FieldStorage(...)
+if fs:
+ ...

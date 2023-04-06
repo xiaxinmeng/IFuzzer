@@ -1,0 +1,1 @@
+formatter = logging.Formatter("%(asctime)s%(msecs)d %(message)s", datefmt="%Y%m%d %H:%M:%S")

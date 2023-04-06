@@ -1,0 +1,1 @@
+print(dict(state=clear, bg="#d00" if clear else"#fca"))

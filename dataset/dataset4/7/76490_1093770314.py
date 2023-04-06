@@ -1,0 +1,3 @@
+def __init__(self, concurrency):
+    ...
+    self._executor = concurrent.futures.ThreadPoolExecutor(max_workers=concurrency)

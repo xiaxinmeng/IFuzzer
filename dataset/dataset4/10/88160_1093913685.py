@@ -1,0 +1,1 @@
+MatchAs(pattern=None, name='foo')

@@ -1,0 +1,1 @@
+f(cast("A", "anything"))

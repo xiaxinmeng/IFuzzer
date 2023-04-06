@@ -1,0 +1,1 @@
+import cgi; bool(cgi.FieldStorage('logo', u'tux.png'))

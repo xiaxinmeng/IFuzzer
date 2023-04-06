@@ -1,0 +1,2 @@
+import site
+site.main()

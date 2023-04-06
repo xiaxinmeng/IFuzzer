@@ -1,0 +1,1 @@
+ord( curses.erasechar( ))

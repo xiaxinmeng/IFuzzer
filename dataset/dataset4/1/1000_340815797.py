@@ -1,0 +1,2 @@
+copy._copy_dispatch[type(re.compile(''))] = lambda x: x                                                                                                                                                   
+copy._copy_dispatch[type(re.match('', ''))] = lambda x: x

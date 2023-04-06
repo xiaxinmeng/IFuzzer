@@ -1,0 +1,1 @@
+os.getxattr("myfile", "user.whatever")

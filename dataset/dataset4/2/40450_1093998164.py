@@ -1,0 +1,1 @@
+compile("# -*- coding: mbcs -*-", "test.py", "exec")

@@ -1,0 +1,1 @@
+msg = self._twilio.messages.get(r.delivery_id)

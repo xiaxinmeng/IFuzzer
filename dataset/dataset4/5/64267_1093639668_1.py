@@ -1,0 +1,1 @@
+cnt = Counter(['red', 'blue', 'red', 'green', 'blue', 'blue'])

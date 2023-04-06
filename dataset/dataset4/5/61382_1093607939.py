@@ -1,0 +1,1 @@
+_SUPER = _POSIX and os.geteuid() == 0

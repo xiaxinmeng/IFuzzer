@@ -1,0 +1,1 @@
+med_base = (base_times[len(base_times)//2] + base_times[(len(base_times)-1)//2]) / 2

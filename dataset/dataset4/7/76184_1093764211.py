@@ -1,0 +1,1 @@
+arr = multiprocessing.Array("b", 1)  # byte type

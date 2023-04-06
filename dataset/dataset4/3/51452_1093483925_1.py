@@ -1,0 +1,1 @@
+list(map(lambda *xs: xs, *zip(*itertools.zip_longest(a, b, ...))))

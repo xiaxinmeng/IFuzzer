@@ -1,0 +1,3 @@
+
+b'/usr/lib/gcc/x86_64-linux-gnu/11/../../../x86_64-linux-gnu/Scrt1.o\n/usr/lib/gcc/x86_64-linux-gnu/11/../../../x86_64-linux-gnu/crti.o\n/usr/lib/gcc/x86_64-linux-gnu/11/crtbeginS.o\n/usr/bin/ld: cannot find -llibsecp256k1: No such file or directory\n/usr/bin/ld: note to link with /usr/lib/gcc/x86_64-linux-gnu/11/../../../x86_64-linux-gnu/libsecp256k1.a use -l:libsecp256k1.a or rename it to liblibsecp256k1.a\n/usr/lib/gcc/x86_64-linux-gnu/11/libgcc.a\n/usr/lib/gcc/x86_64-linux-gnu/11/libgcc_s.so\n/usr/lib/gcc/x86_64-linux-gnu/11/../../../x86_64-linux-gnu/libgcc_s.so.1\n/usr/lib/gcc/x86_64-linux-gnu/11/libgcc.a\ncollect2: error: ld returned 1 exit status\n'
+

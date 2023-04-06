@@ -1,0 +1,1 @@
+__import__(name, globals={}, locals={}, fromlist=[], level=-1)

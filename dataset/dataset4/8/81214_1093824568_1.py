@@ -1,0 +1,1 @@
+runfile('C:/Temp/Smazat/Dictionary_Defaults.py', wdir='C:/Temp/Smazat')

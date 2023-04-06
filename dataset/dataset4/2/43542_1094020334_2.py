@@ -1,0 +1,1 @@
+from xmlreader import InputSource

@@ -1,0 +1,1 @@
+a = open("testfile.zip", "rb")

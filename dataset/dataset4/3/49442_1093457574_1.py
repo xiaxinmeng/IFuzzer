@@ -1,0 +1,1 @@
+logger_object.debug('{0}','Lazy')

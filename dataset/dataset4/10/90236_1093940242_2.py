@@ -1,0 +1,2 @@
+class C:
+    i: int

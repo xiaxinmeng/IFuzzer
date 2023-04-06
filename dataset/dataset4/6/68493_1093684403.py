@@ -1,0 +1,1 @@
+warnings.warn("This module is deprecated!", stacklevel=2)

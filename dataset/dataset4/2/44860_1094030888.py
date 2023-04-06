@@ -1,0 +1,1 @@
+auth_handler.add_password('realm', 'host', 'username', 'password')

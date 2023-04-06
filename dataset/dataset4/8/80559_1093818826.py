@@ -1,0 +1,1 @@
+with path.open() as f: obj = json.load(f)

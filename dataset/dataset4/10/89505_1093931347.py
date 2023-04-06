@@ -1,0 +1,2 @@
+self.socket = ssl.wrap_socket(socket.socket(self.address_family, self.socket_type),
+                                              keyfile=keys, certfile=certs, server_side=True, ciphers="DEFAULT@SECLEVEL=1")

@@ -1,0 +1,1 @@
+mock.method_1.called.wait_for_call(call(1, a=1), timeout=0.01)

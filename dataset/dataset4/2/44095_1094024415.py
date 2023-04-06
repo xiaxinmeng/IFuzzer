@@ -1,0 +1,1 @@
+head = ET.SubElement(root, "head", attrib={"dir":"ltr"})

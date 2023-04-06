@@ -1,0 +1,1 @@
+if not _capability_names.has_key(ch): return 0

@@ -1,0 +1,1 @@
+__str__ = object.__str__

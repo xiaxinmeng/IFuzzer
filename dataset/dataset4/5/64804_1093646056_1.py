@@ -1,0 +1,1 @@
+socket.getaddrinfo("localhost", "00", 0, 0, 0, socket.AI_NUMERICSERV)

@@ -1,0 +1,1 @@
+print("Complex call with both invalid star list and star arguments:")

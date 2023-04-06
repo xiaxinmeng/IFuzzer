@@ -1,0 +1,1 @@
+self.questions = sum((topic.questions for topic in self.topics), [])

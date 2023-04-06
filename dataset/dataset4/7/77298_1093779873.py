@@ -1,0 +1,1 @@
+asyncio.run_coroutine_threadsafe(coro, loop)

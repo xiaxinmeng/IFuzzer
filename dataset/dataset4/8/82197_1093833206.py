@@ -1,0 +1,1 @@
+re.sub('0.072', '72.0', newStringUpdated)

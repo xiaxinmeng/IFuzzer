@@ -1,0 +1,3 @@
+with decimal.localcontext() as ctx:
+    ctx.prec = 10
+    ...

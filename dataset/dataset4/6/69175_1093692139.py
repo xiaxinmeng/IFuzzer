@@ -1,0 +1,1 @@
+subprocess.Popen("soffice --accept='socket,host=localhost,port=8100;urp;'", shell=True)

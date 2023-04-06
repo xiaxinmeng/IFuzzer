@@ -1,0 +1,3 @@
+
+import inspect
+inspect.isfunction

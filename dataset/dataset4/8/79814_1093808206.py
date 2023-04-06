@@ -1,0 +1,1 @@
+open(support.TESTFN, 'wb')

@@ -1,0 +1,1 @@
+os.startfile("file", "open", "a&b>x")

@@ -1,0 +1,1 @@
+FooFoo.myfoo = foo

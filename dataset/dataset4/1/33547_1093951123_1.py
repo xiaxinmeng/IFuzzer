@@ -1,0 +1,1 @@
+ret = os.system("ulimit -s 8192; ./testsys")

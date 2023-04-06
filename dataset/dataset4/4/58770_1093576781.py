@@ -1,0 +1,1 @@
+dir_sep = collapsed_path.find('/', 1)

@@ -1,0 +1,1 @@
+urlparse('http://user:pass#?[word@example.com:80/path')

@@ -1,0 +1,1 @@
+doctest.testmod(b0rk)

@@ -1,0 +1,1 @@
+MODULE = __name__

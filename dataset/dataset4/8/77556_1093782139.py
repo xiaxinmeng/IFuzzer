@@ -1,0 +1,1 @@
+frame.f_globals.get('__file__', sys.argv[0])

@@ -1,0 +1,3 @@
+self.wxyz_parent.add_argument('z')
+...
+self.z_parent.add_argument('z')

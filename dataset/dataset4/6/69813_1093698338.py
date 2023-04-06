@@ -1,0 +1,1 @@
+out = os.popen(q_cmd)

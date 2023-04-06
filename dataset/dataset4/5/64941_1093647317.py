@@ -1,0 +1,1 @@
+for z in zip([1]):pass

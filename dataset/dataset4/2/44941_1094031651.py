@@ -1,0 +1,1 @@
+args = comspec + " /s /c \"%s\"" % args.replace('""', '"')

@@ -1,0 +1,1 @@
+sorted(lst0, key=len, reverse=True)

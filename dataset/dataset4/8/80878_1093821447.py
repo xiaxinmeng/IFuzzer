@@ -1,0 +1,1 @@
+ClosureVars(nonlocals={}, globals={'a': 0, 'b': 1}, builtins={}, unbound=set())

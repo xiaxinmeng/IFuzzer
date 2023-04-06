@@ -1,0 +1,1 @@
+asyncore.loop(0.1, map=[], count=1)

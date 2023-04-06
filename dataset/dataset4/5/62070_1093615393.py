@@ -1,0 +1,1 @@
+AC_CHECK_SIZEOF(uintmax32_t)

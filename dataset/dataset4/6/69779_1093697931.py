@@ -1,0 +1,2 @@
+
+obj = self.queue.get()

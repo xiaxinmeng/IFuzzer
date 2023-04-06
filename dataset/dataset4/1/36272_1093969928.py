@@ -1,0 +1,1 @@
+bind_id = c.tag_bind(tId, '<Button-1>', foo)
