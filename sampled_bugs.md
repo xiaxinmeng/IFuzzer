@@ -97,7 +97,7 @@ The code then creates two instances of MySet: s1 with contents (1, 2, 3) and s2 
 <u>Python Version</u>: Codon v0.15.5
 
 <u>Description</u>:
-The code defines a class B that has a single method \_\_bool\_\_, which raises an AttributeError with a message if it is called. Then, an instance b of class B is created. The code then attempts to evaluate the boolean value of b in an if statement by calling its \_\_bool\_\_ method. However, since the \_\_bool\_\_ method raises an AttributeError, this causes the try block to catch the exception and print "HI". Therefore, the output of running this code will be "HI".
+The code defines a class B that has a single method \_\_bool\_\_, which raises an AttributeError with a message if it is called. Then, an instance b of class B is created. The code then attempts to evaluate the boolean value of b in an if statement by calling its \_\_bool\_\_ method. However, since the \_\_bool\_\_ method raises an AttributeError, this causes the try block to catch the exception and print "HI". Therefore, the expected output of running this code will be "HI". However, this case triggers a crash on Codon.
 
 
 ##### 5. CPython #88881, IronPython #1251: Incorrect arguments in function select() cause segfault.
@@ -160,7 +160,7 @@ In this program, the attribute __sizeof__ of mystr is assigned to variable mystr
 
 <u>Python Version</u>: gpython 3.4.0
 
-<u>Description</u>:The code defines a class c that has a single method \_\_getattr\_\_, which is set to the built-in function getattr. When an attribute of an instance of c is accessed using the dot notation (e.g., c().spam), Python first looks for the attribute on the instance itself. If it is not found, Python will call the \_\_getattr\_\_ method of the instance, passing the name of the attribute as a string. In this case, since \_\_getattr\_\_ is set to getattr, which returns the value of the requested attribute or raises an AttributeError if it doesn't exist, the code will simply return the value of the spam attribute of the instance of c. However, since the instance of c was created with no attributes, accessing any attribute with dot notation will raise an AttributeError.
+<u>Description</u>:The code defines a class c that has a single method \_\_getattr\_\_, which is set to the built-in function getattr. When an attribute of an instance of c is accessed using the dot notation (e.g., c().spam), Python first looks for the attribute on the instance itself. If it is not found, Python will call the \_\_getattr\_\_ method of the instance, passing the name of the attribute as a string. In this case, since \_\_getattr\_\_ is set to getattr, which returns the value of the requested attribute or raises an AttributeError if it doesn't exist, the code will simply return the value of the spam attribute of the instance of c. However, since the instance of c was created with no attributes, accessing any attribute with dot notation will raise an AttributeError. Instead of raising a AttributeErorr, gpython interpreter crashes.
 
 
 ##### 8. CPython #88882: Incorrect callable object crashes Python 3.11.0a0 
