@@ -205,7 +205,7 @@ Running this program in debug mode can get a failed assertion at traceback.c. If
 <u>Python Version</u>: pypy3.9-v7.3.10rc3 
 
 <u>Description</u>: 
-This Python code uses the socket module to create a pair of connected sockets and send a message between them using the User Datagram Protocol (UDP). The code sends the message b'abcdefgh' from the first socket a to the second socket b, and then receives a truncated message of up to 2 bytes from the second socket b and prints its length and contents. 
+This Python code uses the socket module to create a pair of connected sockets and send a message between them using the User Datagram Protocol (UDP). The code sends the message b'abcdefgh' from the first socket a to the second socket b, and then receives a truncated message of up to 2 bytes from the second socket b and prints its length and contents. The expected output is to print the length, while PyPy crashes. 
 
 
 
@@ -478,7 +478,7 @@ The developer claims the root cause of this bug is the function BaseException\_s
 <u>Python Version</u>: Codon v0.15.5
 
 <u>Description</u>:
-This code will open a file named 'x' in write mode using the open() function, and assign the resulting file object to the variable f. The 'w' mode will truncate the file if it already exists, or create it if it doesn't. The write() method is then called on the f object to write the string 'xxx' to the file. Finally, the tell() method is called on the f object, which returns the current position of the file pointer, i.e., the position in the file where the next read or write operation will occur. In this case, since the last operation was a write, the file pointer will be at the end of the file, so the tell() method will return the number of characters in the file, which is 3 in this case.
+This code will open a file named 'x' in write mode using the open() function, and assign the resulting file object to the variable f. The 'w' mode will truncate the file if it already exists, or create it if it doesn't. The write() method is then called on the f object to write the string 'xxx' to the file. Finally, the tell() method is called on the f object, which returns the current position of the file pointer, i.e., the position in the file where the next read or write operation will occur. In this case, since the last operation was a write, the file pointer will be at the end of the file, so the tell() method will return the number of characters in the file, which is 3 in this case. However, Codon does not handle it and reports a segmentation fault.
 
 
 
@@ -524,7 +524,7 @@ Function call weakref.proxy() returns a proxy of the  TypeError which uses a wea
 
 <u>Description</u>:
 This code defines a function called myexit() that imports the sys module and calls its exit() function with an exit code of 2. It then uses the atexit module to register myexit() as a function to be called when the Python interpreter is shutting down.
-So when the program is running and it reaches the end, or when the program is interrupted, the function myexit() will be called with the exit code of 2, which will cause the program to exit with that status code. The atexit module allows you to register functions to be called automatically when a Python script is about to exit, regardless of whether it exits normally or due to an error.
+So when the program is running and it reaches the end, or when the program is interrupted, the function myexit() will be called with the exit code of 2, which will cause the program to exit with that status code. The atexit module allows you to register functions to be called automatically when a Python script is about to exit, regardless of whether it exits normally or due to an error. RustPython get panicked when handling this test program.
 
 
 ##### 24. CPython \#97592: Bugs in asyncio.Future.remove_done_callback() cause segfault.
@@ -575,9 +575,9 @@ The developer has confirmed and fixed this bug. The root cause is that the call 
 The above code defines a class F with a method a(). When an instance of F is created and its a() method is called, the method creates a variable x and sets it to None. Then it creates a list comprehension using x and self as iteration variables, with x\_1 := 2 as the expression being evaluated for each iteration.
 The := operator is an assignment expression introduced in Python 3.8 that allows you to assign a value to a variable as part of an expression. In this case, x\_1 := 2 assigns the value 2 to the variable x\_1, and the resulting value of the expression is also 2.
 So, the list comprehension [[(x\_1 := 2) for self in range(2)] for x in range(2)] creates a 2x2 list with the value 2 in each position.
-Finally, the method a() prints out the resulting list and the value of self, which in this case is the instance of the F class that the method was called on. So the output of calling F().a() will be:
+Finally, the method a() prints out the resulting list and the value of self, which in this case is the instance of the F class that the method was called on. So the expected output of calling F().a() will be:
 [[2, 2], [2, 2]] <\_\_main\_\_.F object at 0x...>
-where the ... represents a memory address.
+where the ... represents a memory address, while RustPython reports a panicked
 
 
 ##### 26. IronPython #1616:Applying for-in structure in 'yield from' crashes ironpython.
@@ -597,6 +597,5 @@ The provided code defines a Python function called test that takes a single para
 
 The yield from statement is used to delegate the iteration of the iterable (b for x in range(10)) to the generator object. This means that when the test function is called, it will return a generator object that can be iterated over to produce values.
 
-The generator object will produce the value of b ten times because the range function is being used to iterate ten times. However, the value of b remains constant throughout the iteration.
-
+The generator object will produce the value of b ten times because the range function is being used to iterate ten times. However, IronPython crashes with this test program.
 
